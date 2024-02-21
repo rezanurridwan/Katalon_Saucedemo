@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User login with standar_user</description>
+   <name>1.1.6 - User login with visual_user</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>2ab54a52-5a85-415d-b464-abc87f4921f1</testCaseGuid>
+</TestCaseEntity>

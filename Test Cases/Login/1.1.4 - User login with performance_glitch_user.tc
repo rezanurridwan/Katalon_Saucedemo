@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User login with standar_user</description>
+   <name>1.1.4 - User login with performance_glitch_user</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>86b7760f-241f-4cc5-8d32-726278b63a07</testCaseGuid>
+</TestCaseEntity>

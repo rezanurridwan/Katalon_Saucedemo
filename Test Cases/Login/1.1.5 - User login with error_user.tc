@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User login with standar_user</description>
+   <name>1.1.5 - User login with error_user</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>b8272860-267a-46b5-a6c2-daaa58340c13</testCaseGuid>
+</TestCaseEntity>
