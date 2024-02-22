@@ -21,13 +21,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.baseUrl)
 
+WebUI.takeFullPageScreenshot()
+
 WebUI.setText(findTestObject('Login/field_username'), '')
 
 WebUI.setText(findTestObject('Login/field_password'), '')
 
+WebUI.takeFullPageScreenshot()
+
 WebUI.click(findTestObject('Login/button_login'))
 
 WebUI.verifyElementText(findTestObject('Login/assertion/div_Epic sadface Username is required'), 'Epic sadface: Username is required')
+
+WebUI.takeFullPageScreenshot()
 
 WebUI.closeBrowser()
 

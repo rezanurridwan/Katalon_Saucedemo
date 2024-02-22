@@ -21,13 +21,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.baseUrl)
 
+WebUI.takeFullPageScreenshot()
+
 WebUI.setText(findTestObject('Login/field_username'), GlobalVariable.error_user)
 
 WebUI.setText(findTestObject('Login/field_password'), GlobalVariable.password)
 
+WebUI.takeFullPageScreenshot()
+
 WebUI.click(findTestObject('Login/button_login'))
 
 WebUI.verifyTextPresent('Swag Labs', false)
+
+WebUI.takeFullPageScreenshot()
 
 WebUI.closeBrowser()
 

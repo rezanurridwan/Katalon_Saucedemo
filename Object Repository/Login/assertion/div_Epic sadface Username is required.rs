@@ -13,8 +13,12 @@
          <key>XPATH</key>
          <value>//div[@id='login_button_container']/div/form/div[3]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Epic sadface: Username is required' or . = 'Epic sadface: Username is required')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>a51041ac-7671-4a80-8fa1-6f618d32f907</webElementGuid>
+      <webElementGuid>4bc0f662-8e60-44d3-8e40-0605604b6ccb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>error-message-container error</value>
-      <webElementGuid>30abf21a-2be5-474f-8758-db28928b07fe</webElementGuid>
+      <webElementGuid>8845f936-94dd-4302-9032-927a797263d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Epic sadface: Username is required</value>
-      <webElementGuid>b842fae9-9c54-4dc2-8c0f-6a2ce058d08c</webElementGuid>
+      <webElementGuid>7acbf457-fdf5-4cfe-9206-aa9a58bd31b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login_button_container&quot;)/div[@class=&quot;login-box&quot;]/form[1]/div[@class=&quot;error-message-container error&quot;]</value>
-      <webElementGuid>4d1cdbad-8323-43b7-ba68-a1dd3f43ea33</webElementGuid>
+      <webElementGuid>09497f18-76c8-4ef3-9735-8d6a88dc0a9d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='login_button_container']/div/form/div[3]</value>
-      <webElementGuid>7310e2eb-0203-416a-bd2f-4f6ae041973f</webElementGuid>
+      <webElementGuid>1b489961-13b6-4637-8f92-9f90f3d1883e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/following::div[7]</value>
-      <webElementGuid>a7c4ca6d-b9c9-4ae4-8c18-44f0ca354076</webElementGuid>
+      <webElementGuid>513c52e4-326f-4bfd-8dda-0df8d7ad0f02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]</value>
-      <webElementGuid>2d4a4e03-e53c-48bd-a9a5-4ad03297a6ea</webElementGuid>
+      <webElementGuid>9509dd18-c3df-4042-a6c6-66f6f69cd165</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +82,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Epic sadface: Username is required' or . = 'Epic sadface: Username is required')]</value>
-      <webElementGuid>bd2140c0-4abd-43e8-bd37-393ff0c59824</webElementGuid>
+      <webElementGuid>212fe43d-954c-4e00-b769-54c895f95c54</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,121 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Suites - Login,Edge Chromium 121,This test suites for testing login,,2024-02-22 08:20:24,2024-02-22 08:23:32,"3m - 7,917s",PASSED
+,,,,,,,
+Test Cases/Login/1.1.1 - User login with standar_user,Edge Chromium 121,User login with standar_user,Login,2024-02-22 08:20:24,2024-02-22 08:20:39,"15,016s",PASSED
+"openBrowser("""")",Edge Chromium 121,,,2024-02-22 08:20:25,2024-02-22 08:20:29,"4,247s",PASSED
+navigateToUrl(baseUrl),Edge Chromium 121,,,2024-02-22 08:20:29,2024-02-22 08:20:32,"3,203s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:20:32,2024-02-22 08:20:33,"0,818s",PASSED
+"setText(findTestObject(""Login/field_username""), standard_user)",Edge Chromium 121,,,2024-02-22 08:20:33,2024-02-22 08:20:35,"1,706s",PASSED
+"setText(findTestObject(""Login/field_password""), password)",Edge Chromium 121,,,2024-02-22 08:20:35,2024-02-22 08:20:36,"0,968s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:20:36,2024-02-22 08:20:37,"0,632s",PASSED
+"click(findTestObject(""Login/button_login""))",Edge Chromium 121,,,2024-02-22 08:20:37,2024-02-22 08:20:37,"0,639s",PASSED
+"verifyTextPresent(""Swag Labs"", false)",Edge Chromium 121,,,2024-02-22 08:20:37,2024-02-22 08:20:38,"0,595s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:20:38,2024-02-22 08:20:39,"1,559s",PASSED
+,,,,,,,
+Test Cases/Login/1.1.2 - User login with locked_out_user,Edge Chromium 121,User login with standar_user,Login,2024-02-22 08:20:39,2024-02-22 08:21:22,"42,304s",PASSED
+"openBrowser("""")",Edge Chromium 121,,,2024-02-22 08:20:40,2024-02-22 08:20:43,"2,692s",PASSED
+navigateToUrl(baseUrl),Edge Chromium 121,,,2024-02-22 08:20:43,2024-02-22 08:20:45,"2,307s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:20:45,2024-02-22 08:20:46,"0,609s",PASSED
+"setText(findTestObject(""Login/field_username""), locked_out_user)",Edge Chromium 121,,,2024-02-22 08:20:46,2024-02-22 08:20:48,"1,996s",PASSED
+"setText(findTestObject(""Login/field_password""), password)",Edge Chromium 121,,,2024-02-22 08:20:48,2024-02-22 08:20:48,"0,877s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:20:48,2024-02-22 08:20:49,"0,743s",PASSED
+"click(findTestObject(""Login/button_login""))",Edge Chromium 121,,,2024-02-22 08:20:49,2024-02-22 08:20:50,"0,537s",PASSED
+"verifyElementText(findTestObject(""Login/assertion/h3_Epic sadface Sorry, this user has been locked out""), ""Epic sadface: Sorry, this user has been locked out."")",Edge Chromium 121,,,2024-02-22 08:20:50,2024-02-22 08:21:20,"30,224s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:21:20,2024-02-22 08:21:21,"0,764s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-22 08:21:21,2024-02-22 08:21:22,"0,967s",PASSED
+,,,,,,,
+Test Cases/Login/1.1.3 - User login with problem_user,Edge Chromium 121,User login with standar_user,Login,2024-02-22 08:21:22,2024-02-22 08:21:35,"13,003s",PASSED
+"openBrowser("""")",Edge Chromium 121,,,2024-02-22 08:21:22,2024-02-22 08:21:24,"1,695s",PASSED
+navigateToUrl(baseUrl),Edge Chromium 121,,,2024-02-22 08:21:24,2024-02-22 08:21:27,"3,254s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:21:27,2024-02-22 08:21:28,"0,550s",PASSED
+"setText(findTestObject(""Login/field_username""), problem_user)",Edge Chromium 121,,,2024-02-22 08:21:28,2024-02-22 08:21:30,"1,937s",PASSED
+"setText(findTestObject(""Login/field_password""), password)",Edge Chromium 121,,,2024-02-22 08:21:30,2024-02-22 08:21:31,"0,894s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:21:31,2024-02-22 08:21:31,"0,648s",PASSED
+"click(findTestObject(""Login/button_login""))",Edge Chromium 121,,,2024-02-22 08:21:31,2024-02-22 08:21:32,"0,599s",PASSED
+"verifyTextPresent(""Swag Labs"", false)",Edge Chromium 121,,,2024-02-22 08:21:32,2024-02-22 08:21:32,"0,511s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:21:32,2024-02-22 08:21:34,"1,525s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-22 08:21:34,2024-02-22 08:21:35,"0,893s",PASSED
+,,,,,,,
+Test Cases/Login/1.1.4 - User login with performance_glitch_user,Edge Chromium 121,User login with standar_user,Login,2024-02-22 08:21:35,2024-02-22 08:21:51,"16,701s",PASSED
+"openBrowser("""")",Edge Chromium 121,,,2024-02-22 08:21:35,2024-02-22 08:21:37,"1,619s",PASSED
+navigateToUrl(baseUrl),Edge Chromium 121,,,2024-02-22 08:21:37,2024-02-22 08:21:39,"2,072s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:21:39,2024-02-22 08:21:39,"0,593s",PASSED
+"setText(findTestObject(""Login/field_username""), performance_glitch_user)",Edge Chromium 121,,,2024-02-22 08:21:39,2024-02-22 08:21:41,"1,983s",PASSED
+"setText(findTestObject(""Login/field_password""), password)",Edge Chromium 121,,,2024-02-22 08:21:41,2024-02-22 08:21:43,"1,048s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:21:43,2024-02-22 08:21:43,"0,653s",PASSED
+"click(findTestObject(""Login/button_login""))",Edge Chromium 121,,,2024-02-22 08:21:43,2024-02-22 08:21:49,"5,616s",PASSED
+"verifyTextPresent(""Swag Labs"", false)",Edge Chromium 121,,,2024-02-22 08:21:49,2024-02-22 08:21:49,"0,419s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:21:49,2024-02-22 08:21:51,"1,317s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-22 08:21:51,2024-02-22 08:21:51,"0,937s",PASSED
+,,,,,,,
+Test Cases/Login/1.1.5 - User login with error_user,Edge Chromium 121,User login with standar_user,Login,2024-02-22 08:21:51,2024-02-22 08:22:04,"12,328s",PASSED
+"openBrowser("""")",Edge Chromium 121,,,2024-02-22 08:21:52,2024-02-22 08:21:54,"1,759s",PASSED
+navigateToUrl(baseUrl),Edge Chromium 121,,,2024-02-22 08:21:54,2024-02-22 08:21:57,"2,626s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:21:57,2024-02-22 08:21:57,"0,609s",PASSED
+"setText(findTestObject(""Login/field_username""), error_user)",Edge Chromium 121,,,2024-02-22 08:21:57,2024-02-22 08:21:59,"1,650s",PASSED
+"setText(findTestObject(""Login/field_password""), password)",Edge Chromium 121,,,2024-02-22 08:21:59,2024-02-22 08:22:00,"1,006s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:22:00,2024-02-22 08:22:01,"0,782s",PASSED
+"click(findTestObject(""Login/button_login""))",Edge Chromium 121,,,2024-02-22 08:22:01,2024-02-22 08:22:01,"0,555s",PASSED
+"verifyTextPresent(""Swag Labs"", false)",Edge Chromium 121,,,2024-02-22 08:22:01,2024-02-22 08:22:02,"0,471s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:22:02,2024-02-22 08:22:03,"1,330s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-22 08:22:03,2024-02-22 08:22:04,"0,881s",PASSED
+,,,,,,,
+Test Cases/Login/1.1.6 - User login with visual_user,Edge Chromium 121,User login with standar_user,Login,2024-02-22 08:22:04,2024-02-22 08:22:16,"12,432s",PASSED
+"openBrowser("""")",Edge Chromium 121,,,2024-02-22 08:22:04,2024-02-22 08:22:06,"1,712s",PASSED
+navigateToUrl(baseUrl),Edge Chromium 121,,,2024-02-22 08:22:06,2024-02-22 08:22:09,"2,659s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:22:09,2024-02-22 08:22:09,"0,622s",PASSED
+"setText(findTestObject(""Login/field_username""), visual_user)",Edge Chromium 121,,,2024-02-22 08:22:09,2024-02-22 08:22:11,"2,033s",PASSED
+"setText(findTestObject(""Login/field_password""), password)",Edge Chromium 121,,,2024-02-22 08:22:11,2024-02-22 08:22:12,"0,921s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:22:12,2024-02-22 08:22:13,"0,692s",PASSED
+"click(findTestObject(""Login/button_login""))",Edge Chromium 121,,,2024-02-22 08:22:13,2024-02-22 08:22:14,"0,615s",PASSED
+"verifyTextPresent(""Swag Labs"", false)",Edge Chromium 121,,,2024-02-22 08:22:14,2024-02-22 08:22:14,"0,539s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:22:14,2024-02-22 08:22:15,"1,265s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-22 08:22:15,2024-02-22 08:22:16,"0,905s",PASSED
+,,,,,,,
+Test Cases/Login/1.1.7 - User input username and password null,Edge Chromium 121,User login with standar_user,Login,2024-02-22 08:22:16,2024-02-22 08:22:28,"11,583s",PASSED
+"openBrowser("""")",Edge Chromium 121,,,2024-02-22 08:22:17,2024-02-22 08:22:19,"1,802s",PASSED
+navigateToUrl(baseUrl),Edge Chromium 121,,,2024-02-22 08:22:19,2024-02-22 08:22:21,"2,380s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:22:21,2024-02-22 08:22:21,"0,580s",PASSED
+"setText(findTestObject(""Login/field_username""), """")",Edge Chromium 121,,,2024-02-22 08:22:21,2024-02-22 08:22:24,"2,156s",PASSED
+"setText(findTestObject(""Login/field_password""), """")",Edge Chromium 121,,,2024-02-22 08:22:24,2024-02-22 08:22:25,"0,922s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:22:25,2024-02-22 08:22:25,"0,646s",PASSED
+"click(findTestObject(""Login/button_login""))",Edge Chromium 121,,,2024-02-22 08:22:25,2024-02-22 08:22:26,"0,619s",PASSED
+"verifyElementText(findTestObject(""Login/assertion/div_Epic sadface Username is required""), ""Epic sadface: Username is required"")",Edge Chromium 121,,,2024-02-22 08:22:26,2024-02-22 08:22:26,"0,526s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:22:26,2024-02-22 08:22:27,"0,486s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-22 08:22:27,2024-02-22 08:22:28,"0,997s",PASSED
+,,,,,,,
+Test Cases/Login/1.1.8 - User input username null and password valid,Edge Chromium 121,User login with standar_user,Login,2024-02-22 08:22:28,2024-02-22 08:22:39,"11,434s",PASSED
+"openBrowser("""")",Edge Chromium 121,,,2024-02-22 08:22:28,2024-02-22 08:22:30,"1,607s",PASSED
+navigateToUrl(baseUrl),Edge Chromium 121,,,2024-02-22 08:22:30,2024-02-22 08:22:32,"2,663s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:22:32,2024-02-22 08:22:33,"0,567s",PASSED
+"setText(findTestObject(""Login/field_username""), """")",Edge Chromium 121,,,2024-02-22 08:22:33,2024-02-22 08:22:35,"1,899s",PASSED
+"setText(findTestObject(""Login/field_password""), password)",Edge Chromium 121,,,2024-02-22 08:22:35,2024-02-22 08:22:36,"0,982s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:22:36,2024-02-22 08:22:37,"0,764s",PASSED
+"click(findTestObject(""Login/button_login""))",Edge Chromium 121,,,2024-02-22 08:22:37,2024-02-22 08:22:37,"0,528s",PASSED
+"verifyElementText(findTestObject(""Login/assertion/div_Epic sadface Username is required""), ""Epic sadface: Username is required"")",Edge Chromium 121,,,2024-02-22 08:22:37,2024-02-22 08:22:38,"0,500s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:22:38,2024-02-22 08:22:38,"0,628s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-22 08:22:38,2024-02-22 08:22:39,"0,940s",PASSED
+,,,,,,,
+Test Cases/Login/1.1.9 - User input username valid and password null,Edge Chromium 121,User login with standar_user,Login,2024-02-22 08:22:39,2024-02-22 08:22:50,"11,204s",PASSED
+"openBrowser("""")",Edge Chromium 121,,,2024-02-22 08:22:40,2024-02-22 08:22:41,"1,632s",PASSED
+navigateToUrl(baseUrl),Edge Chromium 121,,,2024-02-22 08:22:41,2024-02-22 08:22:44,"2,154s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:22:44,2024-02-22 08:22:44,"0,593s",PASSED
+"setText(findTestObject(""Login/field_username""), standard_user)",Edge Chromium 121,,,2024-02-22 08:22:44,2024-02-22 08:22:46,"2,017s",PASSED
+"setText(findTestObject(""Login/field_password""), """")",Edge Chromium 121,,,2024-02-22 08:22:46,2024-02-22 08:22:47,"1,076s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:22:47,2024-02-22 08:22:48,"0,623s",PASSED
+"click(findTestObject(""Login/button_login""))",Edge Chromium 121,,,2024-02-22 08:22:48,2024-02-22 08:22:48,"0,481s",PASSED
+"verifyElementText(findTestObject(""Login/assertion/div_Epic sadface Password is required""), ""Epic sadface: Password is required"")",Edge Chromium 121,,,2024-02-22 08:22:48,2024-02-22 08:22:49,"0,531s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:22:49,2024-02-22 08:22:49,"0,551s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-22 08:22:49,2024-02-22 08:22:50,"0,981s",PASSED
+,,,,,,,
+Test Cases/Login/1.1.10 - User input username and password not registered,Edge Chromium 121,User login with standar_user,Login,2024-02-22 08:22:50,2024-02-22 08:23:32,"41,338s",PASSED
+"openBrowser("""")",Edge Chromium 121,,,2024-02-22 08:22:51,2024-02-22 08:22:53,"1,773s",PASSED
+navigateToUrl(baseUrl),Edge Chromium 121,,,2024-02-22 08:22:53,2024-02-22 08:22:55,"2,273s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:22:55,2024-02-22 08:22:55,"0,561s",PASSED
+"setText(findTestObject(""Login/field_username""), ""standart"")",Edge Chromium 121,,,2024-02-22 08:22:55,2024-02-22 08:22:57,"1,761s",PASSED
+"setText(findTestObject(""Login/field_password""), ""secret"")",Edge Chromium 121,,,2024-02-22 08:22:57,2024-02-22 08:22:58,"0,880s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:22:58,2024-02-22 08:22:59,"0,538s",PASSED
+"click(findTestObject(""Login/button_login""))",Edge Chromium 121,,,2024-02-22 08:22:59,2024-02-22 08:22:59,"0,657s",PASSED
+"verifyElementText(findTestObject(""Login/assertion/h3_Epic sadface Username and password do not match any user in this service""), ""Epic sadface: Username and password do not match any user in this service"")",Edge Chromium 121,,,2024-02-22 08:22:59,2024-02-22 08:23:29,"30,174s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-22 08:23:29,2024-02-22 08:23:31,"1,442s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-22 08:23:31,2024-02-22 08:23:32,"0,905s",PASSED

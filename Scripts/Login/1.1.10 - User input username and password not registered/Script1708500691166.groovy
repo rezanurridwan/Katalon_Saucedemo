@@ -21,14 +21,20 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.baseUrl)
 
+WebUI.takeFullPageScreenshot()
+
 WebUI.setText(findTestObject('Login/field_username'), 'standart')
 
 WebUI.setText(findTestObject('Login/field_password'), 'secret')
+
+WebUI.takeFullPageScreenshot()
 
 WebUI.click(findTestObject('Login/button_login'))
 
 WebUI.verifyElementText(findTestObject('Login/assertion/h3_Epic sadface Username and password do not match any user in this service'), 
     'Epic sadface: Username and password do not match any user in this service')
+
+WebUI.takeFullPageScreenshot()
 
 WebUI.closeBrowser()
 
