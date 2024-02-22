@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Filter product name (A-Z)</description>
+   <name>3.1.4 Filter product price (high to low)</name>
+   <tag>Product</tag>
+   <comment></comment>
+   <testCaseGuid>a576a840-af78-46ee-a00d-17533d83a7b6</testCaseGuid>
+</TestCaseEntity>

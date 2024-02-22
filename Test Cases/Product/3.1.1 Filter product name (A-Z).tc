@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Filter product name (A-Z)</description>
+   <name>3.1.1 Filter product name (A-Z)</name>
+   <tag>Product</tag>
+   <comment></comment>
+   <testCaseGuid>773c3e24-96b8-45a5-a47c-efe7affaf399</testCaseGuid>
+</TestCaseEntity>
