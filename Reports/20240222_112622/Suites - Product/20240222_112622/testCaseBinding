@@ -1,0 +1,16 @@
+{"testCaseName":"Test Cases/Product/Filter product/3.1.1 Filter product name (A-Z)","testCaseId":"Test Cases/Product/Filter product/3.1.1 Filter product name (A-Z)","iterationVariableName":""}
+{"testCaseName":"Test Cases/Product/Filter product/3.1.2 Filter product name (Z-A)","testCaseId":"Test Cases/Product/Filter product/3.1.2 Filter product name (Z-A)","iterationVariableName":""}
+{"testCaseName":"Test Cases/Product/Filter product/3.1.3 Filter product price (low to high)","testCaseId":"Test Cases/Product/Filter product/3.1.3 Filter product price (low to high)","iterationVariableName":""}
+{"testCaseName":"Test Cases/Product/Filter product/3.1.4 Filter product price (high to low)","testCaseId":"Test Cases/Product/Filter product/3.1.4 Filter product price (high to low)","iterationVariableName":""}
+{"testCaseName":"Test Cases/Product/Description/3.2.1 View description product with clicking image","testCaseId":"Test Cases/Product/Description/3.2.1 View description product with clicking image","iterationVariableName":""}
+{"testCaseName":"Test Cases/Product/Description/3.2.2 View description product with clicking product name","testCaseId":"Test Cases/Product/Description/3.2.2 View description product with clicking product name","iterationVariableName":""}
+{"testCaseName":"Test Cases/Product/Add to cart/3.3.1 User add product with clicking button add to cart","testCaseId":"Test Cases/Product/Add to cart/3.3.1 User add product with clicking button add to cart","iterationVariableName":""}
+{"testCaseName":"Test Cases/Product/Add to cart/3.3.2 User remove product with clicking button remove","testCaseId":"Test Cases/Product/Add to cart/3.3.2 User remove product with clicking button remove","iterationVariableName":""}
+{"testCaseName":"Test Cases/Product/Add to cart/4.1.1 User want to back product","testCaseId":"Test Cases/Product/Add to cart/4.1.1 User want to back product","iterationVariableName":""}
+{"testCaseName":"Test Cases/Product/Add to cart/4.1.2 User want to remove product","testCaseId":"Test Cases/Product/Add to cart/4.1.2 User want to remove product","iterationVariableName":""}
+{"testCaseName":"Test Cases/Product/User information/4.2.1 User input data valid","testCaseId":"Test Cases/Product/User information/4.2.1 User input data valid","iterationVariableName":""}
+{"testCaseName":"Test Cases/Product/User information/4.2.2 User input firstname null","testCaseId":"Test Cases/Product/User information/4.2.2 User input firstname null","iterationVariableName":""}
+{"testCaseName":"Test Cases/Product/User information/4.2.3 User input lastname null","testCaseId":"Test Cases/Product/User information/4.2.3 User input lastname null","iterationVariableName":""}
+{"testCaseName":"Test Cases/Product/User information/4.2.4 User input postal code-zip null","testCaseId":"Test Cases/Product/User information/4.2.4 User input postal code-zip null","iterationVariableName":""}
+{"testCaseName":"Test Cases/Product/User information/4.2.5 User input all data null","testCaseId":"Test Cases/Product/User information/4.2.5 User input all data null","iterationVariableName":""}
+{"testCaseName":"Test Cases/Product/User Checkout/4.3.1 User checkout product","testCaseId":"Test Cases/Product/User Checkout/4.3.1 User checkout product","iterationVariableName":""}
