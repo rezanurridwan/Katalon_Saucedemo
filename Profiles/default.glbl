@@ -44,4 +44,19 @@
       <initValue>'secret_sauce'</initValue>
       <name>password</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Muhammad'</initValue>
+      <name>firstname</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Azzam'</initValue>
+      <name>lastname</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'12345'</initValue>
+      <name>PostcalCode</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

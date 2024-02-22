@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User input all data null</description>
+   <name>4.2.5 User input all data null</name>
+   <tag>User information</tag>
+   <comment></comment>
+   <testCaseGuid>fa65dd57-77a5-4265-aded-436f49a63ebe</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User checkout product</description>
+   <name>4.3.1 User checkout product</name>
+   <tag>Checkout</tag>
+   <comment></comment>
+   <testCaseGuid>41ddfb85-015d-4da0-9cc6-0c3bade690e3</testCaseGuid>
+</TestCaseEntity>

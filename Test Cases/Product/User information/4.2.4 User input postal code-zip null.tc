@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User input postal code-zip null</description>
+   <name>4.2.4 User input postal code-zip null</name>
+   <tag>User information</tag>
+   <comment></comment>
+   <testCaseGuid>cf92e078-6c4f-4bc3-b627-f19b13c3614e</testCaseGuid>
+</TestCaseEntity>
