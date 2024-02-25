@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.baseUrl)
 
+WebUI.maximizeWindow()
+
 WebUI.takeFullPageScreenshot()
 
 WebUI.setText(findTestObject('Login/field_username'), GlobalVariable.standard_user)

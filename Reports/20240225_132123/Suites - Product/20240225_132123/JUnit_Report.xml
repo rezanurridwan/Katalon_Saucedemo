@@ -1,0 +1,1572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Suites - Product" time="304.112" tests="16" failures="0" errors="0">
+   <testsuite name="Suites - Product" tests="16" failures="0" errors="0" time="304.112" skipped="0" timestamp="2024-02-25 13:21:28" hostname="LENOVO - DESKTOP-0EH6HA0.mshome.net" id="Test Suites/Suites - Product">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123"/>
+         <property name="logFiles" value="I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\execution0.log"/>
+         <property name="attachments" value="I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842101838.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842105384.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842107588.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842109689.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842111645.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842123802.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842127096.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842129232.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842131071.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842132880.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842147209.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842151376.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842153270.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842155089.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842156909.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842164520.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842168146.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842169994.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842171951.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842173861.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842181413.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842184712.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842186740.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842188646.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842196275.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842199771.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842202334.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842204177.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842211108.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842214719.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842216558.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842218354.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842220241.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842227317.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842230702.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842232813.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842234909.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842236817.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842238022.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842245494.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842248854.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842250851.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842252580.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842254392.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842255536.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842262782.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842266301.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842268314.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842271289.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842276098.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842277397.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842283982.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842287440.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842289378.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842292497.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842297820.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842299082.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842306312.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842309941.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842311811.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842314893.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842320043.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842321362.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842328896.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842332672.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842334633.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842337878.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842342783.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842344022.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842351195.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842354388.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842356318.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842359236.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842364054.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842365394.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842372394.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842375872.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842378046.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842381147.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842386928.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842388780.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842390087.png, I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842391201.png"/>
+         <property name="hostName" value="LENOVO - DESKTOP-0EH6HA0.mshome.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Edge Chromium 121"/>
+         <property name="hostAddress" value="192.168.137.1"/>
+         <property name="sessionId" value="2210c225d21d35564602c5c9eebf3d45"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Product/Filter product/3.1.1 Filter product name (A-Z)" time="24.75" classname="Test Cases/Product/Filter product/3.1.1 Filter product name (A-Z)" status="PASSED">
+         <system-out><![CDATA[2024-02-25 13:21:29 - [TEST_CASE][PASSED] - Test Cases/Product/Filter product/3.1.1 Filter product name (A-Z): Test Cases/Product/Filter product/3.1.1 Filter product name (A-Z)
+
+2024-02-25 13:21:30 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/1.1.1 - User login with standar_user"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:21:30 - [TEST_CASE][PASSED] - Test Cases/Login/1.1.1 - User login with standar_user: Test Cases/Login/1.1.1 - User login with standar_user
+
+2024-02-25 13:21:31 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-02-25 13:21:31 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2024-02-25 13:21:32 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-02-25 13:21:35 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-02-25 13:21:35 - [TEST_STEP][PASSED] - navigateToUrl(baseUrl): Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:21:37 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:21:37 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-02-25 13:21:41 - [MESSAGE][PASSED] - Current window maximized
+
+2024-02-25 13:21:41 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:21:42 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:21:42 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842101838.png]]
+
+2024-02-25 13:21:42 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_username"), standard_user): Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:21:44 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:21:44 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_password"), password): Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:21:45 - [MESSAGE][PASSED] - Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:21:45 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:21:45 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:21:46 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842105384.png]]
+
+2024-02-25 13:21:46 - [TEST_STEP][PASSED] - click(findTestObject("Login/button_login")): Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:21:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:21:47 - [TEST_STEP][PASSED] - verifyTextPresent("Swag Labs", false): Text 'Swag Labs' is present on page 
+
+2024-02-25 13:21:47 - [MESSAGE][PASSED] - Text 'Swag Labs' is present on page 
+
+2024-02-25 13:21:47 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:21:48 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:21:49 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842107588.png]]
+
+2024-02-25 13:21:49 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:21:49 - [TEST_STEP][PASSED] - click(findTestObject("Product/filter icon")): Object: 'Object Repository/Product/filter icon' is clicked on
+
+2024-02-25 13:21:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/filter icon' is clicked on
+
+2024-02-25 13:21:49 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:21:50 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:21:51 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842109689.png]]
+
+2024-02-25 13:21:51 - [TEST_STEP][PASSED] - click(findTestObject("Product/Name (A-Z)")): Object: 'Object Repository/Product/Name (A-Z)' is clicked on
+
+2024-02-25 13:21:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/Name (A-Z)' is clicked on
+
+2024-02-25 13:21:51 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:21:52 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:21:52 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842111645.png]]
+
+2024-02-25 13:21:52 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-02-25 13:21:54 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product/Filter product/3.1.2 Filter product name (Z-A)" time="21.095" classname="Test Cases/Product/Filter product/3.1.2 Filter product name (Z-A)" status="PASSED">
+         <system-out><![CDATA[2024-02-25 13:21:54 - [TEST_CASE][PASSED] - Test Cases/Product/Filter product/3.1.2 Filter product name (Z-A): Test Cases/Product/Filter product/3.1.2 Filter product name (Z-A)
+
+2024-02-25 13:21:54 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/1.1.1 - User login with standar_user"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:21:54 - [TEST_CASE][PASSED] - Test Cases/Login/1.1.1 - User login with standar_user: Test Cases/Login/1.1.1 - User login with standar_user
+
+2024-02-25 13:21:54 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-02-25 13:21:54 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2024-02-25 13:21:55 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-02-25 13:21:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-02-25 13:21:56 - [TEST_STEP][PASSED] - navigateToUrl(baseUrl): Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:22:03 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:22:03 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-02-25 13:22:03 - [MESSAGE][PASSED] - Current window maximized
+
+2024-02-25 13:22:03 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:22:04 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:22:04 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842123802.png]]
+
+2024-02-25 13:22:04 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_username"), standard_user): Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:22:06 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:22:06 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_password"), password): Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:22:07 - [MESSAGE][PASSED] - Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:22:07 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:22:07 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:22:08 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842127096.png]]
+
+2024-02-25 13:22:08 - [TEST_STEP][PASSED] - click(findTestObject("Login/button_login")): Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:22:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:22:08 - [TEST_STEP][PASSED] - verifyTextPresent("Swag Labs", false): Text 'Swag Labs' is present on page 
+
+2024-02-25 13:22:09 - [MESSAGE][PASSED] - Text 'Swag Labs' is present on page 
+
+2024-02-25 13:22:09 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:22:10 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:22:10 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842129232.png]]
+
+2024-02-25 13:22:10 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:22:10 - [TEST_STEP][PASSED] - click(findTestObject("Product/filter icon")): Object: 'Object Repository/Product/filter icon' is clicked on
+
+2024-02-25 13:22:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/filter icon' is clicked on
+
+2024-02-25 13:22:11 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:22:11 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:22:12 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842131071.png]]
+
+2024-02-25 13:22:12 - [TEST_STEP][PASSED] - click(findTestObject("Product/Name (Z-A)")): Object: 'Object Repository/Product/Name (Z-A)' is clicked on
+
+2024-02-25 13:22:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/Name (Z-A)' is clicked on
+
+2024-02-25 13:22:12 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:22:13 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:22:14 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842132880.png]]
+
+2024-02-25 13:22:14 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-02-25 13:22:15 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product/Filter product/3.1.3 Filter product price (low to high)" time="24.075" classname="Test Cases/Product/Filter product/3.1.3 Filter product price (low to high)" status="PASSED">
+         <system-out><![CDATA[2024-02-25 13:22:15 - [TEST_CASE][PASSED] - Test Cases/Product/Filter product/3.1.3 Filter product price (low to high): Test Cases/Product/Filter product/3.1.3 Filter product price (low to high)
+
+2024-02-25 13:22:15 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/1.1.1 - User login with standar_user"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:22:15 - [TEST_CASE][PASSED] - Test Cases/Login/1.1.1 - User login with standar_user: Test Cases/Login/1.1.1 - User login with standar_user
+
+2024-02-25 13:22:15 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-02-25 13:22:15 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2024-02-25 13:22:16 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-02-25 13:22:17 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-02-25 13:22:17 - [TEST_STEP][PASSED] - navigateToUrl(baseUrl): Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:22:26 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:22:26 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-02-25 13:22:27 - [MESSAGE][PASSED] - Current window maximized
+
+2024-02-25 13:22:27 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:22:27 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:22:27 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842147209.png]]
+
+2024-02-25 13:22:27 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_username"), standard_user): Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:22:30 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:22:30 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_password"), password): Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:22:31 - [MESSAGE][PASSED] - Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:22:31 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:22:31 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:22:32 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842151376.png]]
+
+2024-02-25 13:22:32 - [TEST_STEP][PASSED] - click(findTestObject("Login/button_login")): Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:22:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:22:32 - [TEST_STEP][PASSED] - verifyTextPresent("Swag Labs", false): Text 'Swag Labs' is present on page 
+
+2024-02-25 13:22:33 - [MESSAGE][PASSED] - Text 'Swag Labs' is present on page 
+
+2024-02-25 13:22:33 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:22:34 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:22:34 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842153270.png]]
+
+2024-02-25 13:22:34 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:22:34 - [TEST_STEP][PASSED] - click(findTestObject("Product/filter icon")): Object: 'Object Repository/Product/filter icon' is clicked on
+
+2024-02-25 13:22:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/filter icon' is clicked on
+
+2024-02-25 13:22:35 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:22:35 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:22:36 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842155089.png]]
+
+2024-02-25 13:22:36 - [TEST_STEP][PASSED] - click(findTestObject("Product/Price (low to high)")): Object: 'Object Repository/Product/Price (low to high)' is clicked on
+
+2024-02-25 13:22:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/Price (low to high)' is clicked on
+
+2024-02-25 13:22:36 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:22:37 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:22:38 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842156909.png]]
+
+2024-02-25 13:22:38 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-02-25 13:22:39 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product/Filter product/3.1.4 Filter product price (high to low)" time="16.954" classname="Test Cases/Product/Filter product/3.1.4 Filter product price (high to low)" status="PASSED">
+         <system-out><![CDATA[2024-02-25 13:22:39 - [TEST_CASE][PASSED] - Test Cases/Product/Filter product/3.1.4 Filter product price (high to low): Test Cases/Product/Filter product/3.1.4 Filter product price (high to low)
+
+2024-02-25 13:22:39 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/1.1.1 - User login with standar_user"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:22:39 - [TEST_CASE][PASSED] - Test Cases/Login/1.1.1 - User login with standar_user: Test Cases/Login/1.1.1 - User login with standar_user
+
+2024-02-25 13:22:40 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-02-25 13:22:40 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2024-02-25 13:22:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-02-25 13:22:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-02-25 13:22:41 - [TEST_STEP][PASSED] - navigateToUrl(baseUrl): Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:22:44 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:22:44 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-02-25 13:22:44 - [MESSAGE][PASSED] - Current window maximized
+
+2024-02-25 13:22:44 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:22:45 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:22:45 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842164520.png]]
+
+2024-02-25 13:22:45 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_username"), standard_user): Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:22:47 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:22:47 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_password"), password): Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:22:48 - [MESSAGE][PASSED] - Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:22:48 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:22:48 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:22:48 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842168146.png]]
+
+2024-02-25 13:22:48 - [TEST_STEP][PASSED] - click(findTestObject("Login/button_login")): Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:22:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:22:49 - [TEST_STEP][PASSED] - verifyTextPresent("Swag Labs", false): Text 'Swag Labs' is present on page 
+
+2024-02-25 13:22:49 - [MESSAGE][PASSED] - Text 'Swag Labs' is present on page 
+
+2024-02-25 13:22:49 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:22:50 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:22:51 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842169994.png]]
+
+2024-02-25 13:22:51 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:22:51 - [TEST_STEP][PASSED] - click(findTestObject("Product/filter icon")): Object: 'Object Repository/Product/filter icon' is clicked on
+
+2024-02-25 13:22:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/filter icon' is clicked on
+
+2024-02-25 13:22:51 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:22:52 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:22:53 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842171951.png]]
+
+2024-02-25 13:22:53 - [TEST_STEP][PASSED] - click(findTestObject("Product/Price (high to low)")): Object: 'Object Repository/Product/Price (high to low)' is clicked on
+
+2024-02-25 13:22:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/Price (high to low)' is clicked on
+
+2024-02-25 13:22:53 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:22:54 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:22:55 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842173861.png]]
+
+2024-02-25 13:22:55 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-02-25 13:22:56 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product/Description/3.2.1 View description product with clicking image" time="14.562" classname="Test Cases/Product/Description/3.2.1 View description product with clicking image" status="PASSED">
+         <system-out><![CDATA[2024-02-25 13:22:56 - [TEST_CASE][PASSED] - Test Cases/Product/Description/3.2.1 View description product with clicking image: Test Cases/Product/Description/3.2.1 View description product with clicking image
+
+2024-02-25 13:22:56 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/1.1.1 - User login with standar_user"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:22:56 - [TEST_CASE][PASSED] - Test Cases/Login/1.1.1 - User login with standar_user: Test Cases/Login/1.1.1 - User login with standar_user
+
+2024-02-25 13:22:56 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-02-25 13:22:56 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2024-02-25 13:22:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-02-25 13:22:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-02-25 13:22:58 - [TEST_STEP][PASSED] - navigateToUrl(baseUrl): Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:23:01 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:23:01 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-02-25 13:23:01 - [MESSAGE][PASSED] - Current window maximized
+
+2024-02-25 13:23:01 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:23:02 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:23:02 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842181413.png]]
+
+2024-02-25 13:23:02 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_username"), standard_user): Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:23:03 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:23:03 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_password"), password): Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:23:04 - [MESSAGE][PASSED] - Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:23:04 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:23:05 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:23:05 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842184712.png]]
+
+2024-02-25 13:23:05 - [TEST_STEP][PASSED] - click(findTestObject("Login/button_login")): Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:23:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:23:06 - [TEST_STEP][PASSED] - verifyTextPresent("Swag Labs", false): Text 'Swag Labs' is present on page 
+
+2024-02-25 13:23:06 - [MESSAGE][PASSED] - Text 'Swag Labs' is present on page 
+
+2024-02-25 13:23:06 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:23:07 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:23:08 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842186740.png]]
+
+2024-02-25 13:23:08 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:23:08 - [TEST_STEP][PASSED] - click(findTestObject("Product/product title")): Object: 'Object Repository/Product/product title' is clicked on
+
+2024-02-25 13:23:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/product title' is clicked on
+
+2024-02-25 13:23:08 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:23:09 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:23:09 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842188646.png]]
+
+2024-02-25 13:23:09 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-02-25 13:23:10 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product/Description/3.2.2 View description product with clicking product name" time="0.627" classname="Test Cases/Product/Description/3.2.2 View description product with clicking product name" status="PASSED">
+         <system-out><![CDATA[2024-02-25 13:23:10 - [TEST_CASE][PASSED] - Test Cases/Product/Description/3.2.2 View description product with clicking product name: Test Cases/Product/Description/3.2.2 View description product with clicking product name
+
+2024-02-25 13:23:11 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product/Add to cart/3.3.1 User add product with clicking button add to cart" time="15.023" classname="Test Cases/Product/Add to cart/3.3.1 User add product with clicking button add to cart" status="PASSED">
+         <system-out><![CDATA[2024-02-25 13:23:11 - [TEST_CASE][PASSED] - Test Cases/Product/Add to cart/3.3.1 User add product with clicking button add to cart: Test Cases/Product/Add to cart/3.3.1 User add product with clicking button add to cart
+
+2024-02-25 13:23:12 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/1.1.1 - User login with standar_user"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:23:12 - [TEST_CASE][PASSED] - Test Cases/Login/1.1.1 - User login with standar_user: Test Cases/Login/1.1.1 - User login with standar_user
+
+2024-02-25 13:23:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-02-25 13:23:12 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2024-02-25 13:23:12 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-02-25 13:23:13 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-02-25 13:23:13 - [TEST_STEP][PASSED] - navigateToUrl(baseUrl): Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:23:16 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:23:16 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-02-25 13:23:16 - [MESSAGE][PASSED] - Current window maximized
+
+2024-02-25 13:23:16 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:23:16 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:23:16 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842196275.png]]
+
+2024-02-25 13:23:16 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_username"), standard_user): Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:23:18 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:23:18 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_password"), password): Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:23:19 - [MESSAGE][PASSED] - Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:23:19 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:23:20 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:23:20 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842199771.png]]
+
+2024-02-25 13:23:20 - [TEST_STEP][PASSED] - click(findTestObject("Login/button_login")): Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:23:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:23:21 - [TEST_STEP][PASSED] - verifyTextPresent("Swag Labs", false): Text 'Swag Labs' is present on page 
+
+2024-02-25 13:23:22 - [MESSAGE][PASSED] - Text 'Swag Labs' is present on page 
+
+2024-02-25 13:23:22 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:23:23 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:23:23 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842202334.png]]
+
+2024-02-25 13:23:23 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:23:23 - [TEST_STEP][PASSED] - click(findTestObject("Product/addtocart")): Object: 'Object Repository/Product/addtocart' is clicked on
+
+2024-02-25 13:23:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/addtocart' is clicked on
+
+2024-02-25 13:23:24 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:23:25 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:23:25 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842204177.png]]
+
+2024-02-25 13:23:25 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-02-25 13:23:26 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product/Add to cart/3.3.2 User remove product with clicking button remove" time="16.087" classname="Test Cases/Product/Add to cart/3.3.2 User remove product with clicking button remove" status="PASSED">
+         <system-out><![CDATA[2024-02-25 13:23:26 - [TEST_CASE][PASSED] - Test Cases/Product/Add to cart/3.3.2 User remove product with clicking button remove: Test Cases/Product/Add to cart/3.3.2 User remove product with clicking button remove
+
+2024-02-25 13:23:27 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/1.1.1 - User login with standar_user"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:23:27 - [TEST_CASE][PASSED] - Test Cases/Login/1.1.1 - User login with standar_user: Test Cases/Login/1.1.1 - User login with standar_user
+
+2024-02-25 13:23:27 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-02-25 13:23:27 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2024-02-25 13:23:27 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-02-25 13:23:28 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-02-25 13:23:28 - [TEST_STEP][PASSED] - navigateToUrl(baseUrl): Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:23:30 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:23:30 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-02-25 13:23:31 - [MESSAGE][PASSED] - Current window maximized
+
+2024-02-25 13:23:31 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:23:31 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:23:31 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842211108.png]]
+
+2024-02-25 13:23:31 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_username"), standard_user): Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:23:33 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:23:33 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_password"), password): Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:23:34 - [MESSAGE][PASSED] - Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:23:34 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:23:35 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:23:35 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842214719.png]]
+
+2024-02-25 13:23:35 - [TEST_STEP][PASSED] - click(findTestObject("Login/button_login")): Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:23:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:23:36 - [TEST_STEP][PASSED] - verifyTextPresent("Swag Labs", false): Text 'Swag Labs' is present on page 
+
+2024-02-25 13:23:36 - [MESSAGE][PASSED] - Text 'Swag Labs' is present on page 
+
+2024-02-25 13:23:36 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:23:37 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:23:37 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842216558.png]]
+
+2024-02-25 13:23:37 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:23:37 - [TEST_STEP][PASSED] - click(findTestObject("Product/addtocart")): Object: 'Object Repository/Product/addtocart' is clicked on
+
+2024-02-25 13:23:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/addtocart' is clicked on
+
+2024-02-25 13:23:38 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:23:39 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:23:39 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842218354.png]]
+
+2024-02-25 13:23:39 - [TEST_STEP][PASSED] - click(findTestObject("Product/remove-cart")): Object: 'Object Repository/Product/remove-cart' is clicked on
+
+2024-02-25 13:23:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/remove-cart' is clicked on
+
+2024-02-25 13:23:40 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:23:41 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:23:41 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842220241.png]]
+
+2024-02-25 13:23:41 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-02-25 13:23:42 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product/Add to cart/4.1.1 User want to back product" time="17.82" classname="Test Cases/Product/Add to cart/4.1.1 User want to back product" status="PASSED">
+         <system-out><![CDATA[2024-02-25 13:23:42 - [TEST_CASE][PASSED] - Test Cases/Product/Add to cart/4.1.1 User want to back product: Test Cases/Product/Add to cart/4.1.1 User want to back product
+
+2024-02-25 13:23:43 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/1.1.1 - User login with standar_user"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:23:43 - [TEST_CASE][PASSED] - Test Cases/Login/1.1.1 - User login with standar_user: Test Cases/Login/1.1.1 - User login with standar_user
+
+2024-02-25 13:23:43 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-02-25 13:23:43 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2024-02-25 13:23:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-02-25 13:23:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-02-25 13:23:45 - [TEST_STEP][PASSED] - navigateToUrl(baseUrl): Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:23:47 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:23:47 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-02-25 13:23:47 - [MESSAGE][PASSED] - Current window maximized
+
+2024-02-25 13:23:47 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:23:47 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:23:48 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842227317.png]]
+
+2024-02-25 13:23:48 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_username"), standard_user): Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:23:49 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:23:49 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_password"), password): Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:23:50 - [MESSAGE][PASSED] - Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:23:50 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:23:51 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:23:51 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842230702.png]]
+
+2024-02-25 13:23:51 - [TEST_STEP][PASSED] - click(findTestObject("Login/button_login")): Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:23:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:23:52 - [TEST_STEP][PASSED] - verifyTextPresent("Swag Labs", false): Text 'Swag Labs' is present on page 
+
+2024-02-25 13:23:52 - [MESSAGE][PASSED] - Text 'Swag Labs' is present on page 
+
+2024-02-25 13:23:52 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:23:53 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:23:54 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842232813.png]]
+
+2024-02-25 13:23:54 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:23:54 - [TEST_STEP][PASSED] - click(findTestObject("Product/addtocart")): Object: 'Object Repository/Product/addtocart' is clicked on
+
+2024-02-25 13:23:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/addtocart' is clicked on
+
+2024-02-25 13:23:54 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:23:55 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:23:56 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842234909.png]]
+
+2024-02-25 13:23:56 - [TEST_STEP][PASSED] - click(findTestObject("Product/cart icon")): Object: 'Object Repository/Product/cart icon' is clicked on
+
+2024-02-25 13:23:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/cart icon' is clicked on
+
+2024-02-25 13:23:56 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:23:57 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:23:57 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842236817.png]]
+
+2024-02-25 13:23:57 - [TEST_STEP][PASSED] - click(findTestObject("Product/btn-continue shopping")): Object: 'Object Repository/Product/btn-continue shopping' is clicked on
+
+2024-02-25 13:23:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/btn-continue shopping' is clicked on
+
+2024-02-25 13:23:58 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:23:58 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:23:59 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842238022.png]]
+
+2024-02-25 13:23:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-02-25 13:24:00 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product/Add to cart/4.1.2 User want to remove product" time="16.789" classname="Test Cases/Product/Add to cart/4.1.2 User want to remove product" status="PASSED">
+         <system-out><![CDATA[2024-02-25 13:24:00 - [TEST_CASE][PASSED] - Test Cases/Product/Add to cart/4.1.2 User want to remove product: Test Cases/Product/Add to cart/4.1.2 User want to remove product
+
+2024-02-25 13:24:00 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/1.1.1 - User login with standar_user"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:24:01 - [TEST_CASE][PASSED] - Test Cases/Login/1.1.1 - User login with standar_user: Test Cases/Login/1.1.1 - User login with standar_user
+
+2024-02-25 13:24:01 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-02-25 13:24:01 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2024-02-25 13:24:01 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-02-25 13:24:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-02-25 13:24:03 - [TEST_STEP][PASSED] - navigateToUrl(baseUrl): Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:24:05 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:24:05 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-02-25 13:24:05 - [MESSAGE][PASSED] - Current window maximized
+
+2024-02-25 13:24:05 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:24:06 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:24:06 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842245494.png]]
+
+2024-02-25 13:24:06 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_username"), standard_user): Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:24:07 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:24:07 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_password"), password): Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:24:08 - [MESSAGE][PASSED] - Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:24:08 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:24:09 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:24:09 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842248854.png]]
+
+2024-02-25 13:24:09 - [TEST_STEP][PASSED] - click(findTestObject("Login/button_login")): Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:24:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:24:10 - [TEST_STEP][PASSED] - verifyTextPresent("Swag Labs", false): Text 'Swag Labs' is present on page 
+
+2024-02-25 13:24:10 - [MESSAGE][PASSED] - Text 'Swag Labs' is present on page 
+
+2024-02-25 13:24:10 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:24:11 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:24:12 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842250851.png]]
+
+2024-02-25 13:24:12 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:24:12 - [TEST_STEP][PASSED] - click(findTestObject("Product/addtocart")): Object: 'Object Repository/Product/addtocart' is clicked on
+
+2024-02-25 13:24:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/addtocart' is clicked on
+
+2024-02-25 13:24:12 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:24:13 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:24:13 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842252580.png]]
+
+2024-02-25 13:24:13 - [TEST_STEP][PASSED] - click(findTestObject("Product/cart icon")): Object: 'Object Repository/Product/cart icon' is clicked on
+
+2024-02-25 13:24:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/cart icon' is clicked on
+
+2024-02-25 13:24:14 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:24:14 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:24:15 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842254392.png]]
+
+2024-02-25 13:24:15 - [TEST_STEP][PASSED] - click(findTestObject("Product/btn-remove product")): Object: 'Object Repository/Product/btn-remove product' is clicked on
+
+2024-02-25 13:24:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/btn-remove product' is clicked on
+
+2024-02-25 13:24:15 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:24:16 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:24:16 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842255536.png]]
+
+2024-02-25 13:24:16 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-02-25 13:24:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product/User information/4.2.1 User input data valid" time="22.075" classname="Test Cases/Product/User information/4.2.1 User input data valid" status="PASSED">
+         <system-out><![CDATA[2024-02-25 13:24:17 - [TEST_CASE][PASSED] - Test Cases/Product/User information/4.2.1 User input data valid: Test Cases/Product/User information/4.2.1 User input data valid
+
+2024-02-25 13:24:17 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/1.1.1 - User login with standar_user"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:24:18 - [TEST_CASE][PASSED] - Test Cases/Login/1.1.1 - User login with standar_user: Test Cases/Login/1.1.1 - User login with standar_user
+
+2024-02-25 13:24:18 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-02-25 13:24:18 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2024-02-25 13:24:18 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-02-25 13:24:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-02-25 13:24:19 - [TEST_STEP][PASSED] - navigateToUrl(baseUrl): Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:24:22 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:24:22 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-02-25 13:24:22 - [MESSAGE][PASSED] - Current window maximized
+
+2024-02-25 13:24:22 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:24:23 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:24:23 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842262782.png]]
+
+2024-02-25 13:24:23 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_username"), standard_user): Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:24:25 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:24:25 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_password"), password): Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:24:26 - [MESSAGE][PASSED] - Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:24:26 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:24:26 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:24:27 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842266301.png]]
+
+2024-02-25 13:24:27 - [TEST_STEP][PASSED] - click(findTestObject("Login/button_login")): Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:24:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:24:27 - [TEST_STEP][PASSED] - verifyTextPresent("Swag Labs", false): Text 'Swag Labs' is present on page 
+
+2024-02-25 13:24:28 - [MESSAGE][PASSED] - Text 'Swag Labs' is present on page 
+
+2024-02-25 13:24:28 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:24:29 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:24:29 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842268314.png]]
+
+2024-02-25 13:24:29 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:24:29 - [TEST_STEP][PASSED] - click(findTestObject("Product/addtocart")): Object: 'Object Repository/Product/addtocart' is clicked on
+
+2024-02-25 13:24:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/addtocart' is clicked on
+
+2024-02-25 13:24:30 - [TEST_STEP][PASSED] - click(findTestObject("Product/cart icon")): Object: 'Object Repository/Product/cart icon' is clicked on
+
+2024-02-25 13:24:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/cart icon' is clicked on
+
+2024-02-25 13:24:30 - [TEST_STEP][PASSED] - click(findTestObject("Product/btn-checkout")): Object: 'Object Repository/Product/btn-checkout' is clicked on
+
+2024-02-25 13:24:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/btn-checkout' is clicked on
+
+2024-02-25 13:24:31 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:24:31 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:24:32 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842271289.png]]
+
+2024-02-25 13:24:32 - [TEST_STEP][PASSED] - setText(findTestObject("Product/firstname"), firstname): Text 'Muhammad' is set on object 'Object Repository/Product/firstname'
+
+2024-02-25 13:24:32 - [MESSAGE][PASSED] - Text 'Muhammad' is set on object 'Object Repository/Product/firstname'
+
+2024-02-25 13:24:32 - [TEST_STEP][PASSED] - setText(findTestObject("Product/lastname"), lastname): Text 'Azzam' is set on object 'Object Repository/Product/lastname'
+
+2024-02-25 13:24:33 - [MESSAGE][PASSED] - Text 'Azzam' is set on object 'Object Repository/Product/lastname'
+
+2024-02-25 13:24:33 - [TEST_STEP][PASSED] - setText(findTestObject("Product/postcal code"), PostcalCode): Text '12345' is set on object 'Object Repository/Product/postcal code'
+
+2024-02-25 13:24:36 - [MESSAGE][PASSED] - Text '12345' is set on object 'Object Repository/Product/postcal code'
+
+2024-02-25 13:24:36 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:24:36 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:24:36 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842276098.png]]
+
+2024-02-25 13:24:36 - [TEST_STEP][PASSED] - click(findTestObject("Product/btn-continue")): Object: 'Object Repository/Product/btn-continue' is clicked on
+
+2024-02-25 13:24:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/btn-continue' is clicked on
+
+2024-02-25 13:24:37 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:24:38 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:24:38 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842277397.png]]
+
+2024-02-25 13:24:38 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-02-25 13:24:39 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product/User information/4.2.2 User input firstname null" time="22.088" classname="Test Cases/Product/User information/4.2.2 User input firstname null" status="PASSED">
+         <system-out><![CDATA[2024-02-25 13:24:39 - [TEST_CASE][PASSED] - Test Cases/Product/User information/4.2.2 User input firstname null: Test Cases/Product/User information/4.2.2 User input firstname null
+
+2024-02-25 13:24:39 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/1.1.1 - User login with standar_user"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:24:39 - [TEST_CASE][PASSED] - Test Cases/Login/1.1.1 - User login with standar_user: Test Cases/Login/1.1.1 - User login with standar_user
+
+2024-02-25 13:24:39 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-02-25 13:24:39 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2024-02-25 13:24:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-02-25 13:24:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-02-25 13:24:41 - [TEST_STEP][PASSED] - navigateToUrl(baseUrl): Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:24:43 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:24:43 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-02-25 13:24:43 - [MESSAGE][PASSED] - Current window maximized
+
+2024-02-25 13:24:43 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:24:44 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:24:44 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842283982.png]]
+
+2024-02-25 13:24:44 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_username"), standard_user): Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:24:46 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:24:46 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_password"), password): Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:24:47 - [MESSAGE][PASSED] - Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:24:47 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:24:48 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:24:48 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842287440.png]]
+
+2024-02-25 13:24:48 - [TEST_STEP][PASSED] - click(findTestObject("Login/button_login")): Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:24:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:24:48 - [TEST_STEP][PASSED] - verifyTextPresent("Swag Labs", false): Text 'Swag Labs' is present on page 
+
+2024-02-25 13:24:49 - [MESSAGE][PASSED] - Text 'Swag Labs' is present on page 
+
+2024-02-25 13:24:49 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:24:50 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:24:50 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842289378.png]]
+
+2024-02-25 13:24:50 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:24:50 - [TEST_STEP][PASSED] - click(findTestObject("Product/addtocart")): Object: 'Object Repository/Product/addtocart' is clicked on
+
+2024-02-25 13:24:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/addtocart' is clicked on
+
+2024-02-25 13:24:51 - [TEST_STEP][PASSED] - click(findTestObject("Product/cart icon")): Object: 'Object Repository/Product/cart icon' is clicked on
+
+2024-02-25 13:24:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/cart icon' is clicked on
+
+2024-02-25 13:24:51 - [TEST_STEP][PASSED] - click(findTestObject("Product/btn-checkout")): Object: 'Object Repository/Product/btn-checkout' is clicked on
+
+2024-02-25 13:24:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/btn-checkout' is clicked on
+
+2024-02-25 13:24:52 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:24:53 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:24:53 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842292497.png]]
+
+2024-02-25 13:24:53 - [TEST_STEP][PASSED] - setText(findTestObject("Product/firstname"), ""): Text '' is set on object 'Object Repository/Product/firstname'
+
+2024-02-25 13:24:54 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Product/firstname'
+
+2024-02-25 13:24:54 - [TEST_STEP][PASSED] - setText(findTestObject("Product/lastname"), lastname): Text 'Azzam' is set on object 'Object Repository/Product/lastname'
+
+2024-02-25 13:24:56 - [MESSAGE][PASSED] - Text 'Azzam' is set on object 'Object Repository/Product/lastname'
+
+2024-02-25 13:24:56 - [TEST_STEP][PASSED] - setText(findTestObject("Product/postcal code"), PostcalCode): Text '12345' is set on object 'Object Repository/Product/postcal code'
+
+2024-02-25 13:24:57 - [MESSAGE][PASSED] - Text '12345' is set on object 'Object Repository/Product/postcal code'
+
+2024-02-25 13:24:57 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:24:58 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:24:58 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842297820.png]]
+
+2024-02-25 13:24:58 - [TEST_STEP][PASSED] - click(findTestObject("Product/btn-continue")): Object: 'Object Repository/Product/btn-continue' is clicked on
+
+2024-02-25 13:24:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/btn-continue' is clicked on
+
+2024-02-25 13:24:59 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:24:59 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:24:59 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842299082.png]]
+
+2024-02-25 13:24:59 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Product/assertion/h3_Error First Name is required"), "Error: First Name is required"): Actual text and expected text of test object 'Object Repository/Product/assertion/h3_Error First Name is required' are matched.
+
+2024-02-25 13:25:00 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Product/assertion/h3_Error First Name is required' are matched.
+
+2024-02-25 13:25:00 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-02-25 13:25:01 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product/User information/4.2.3 User input lastname null" time="22.145" classname="Test Cases/Product/User information/4.2.3 User input lastname null" status="PASSED">
+         <system-out><![CDATA[2024-02-25 13:25:01 - [TEST_CASE][PASSED] - Test Cases/Product/User information/4.2.3 User input lastname null: Test Cases/Product/User information/4.2.3 User input lastname null
+
+2024-02-25 13:25:01 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/1.1.1 - User login with standar_user"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:25:01 - [TEST_CASE][PASSED] - Test Cases/Login/1.1.1 - User login with standar_user: Test Cases/Login/1.1.1 - User login with standar_user
+
+2024-02-25 13:25:02 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-02-25 13:25:02 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2024-02-25 13:25:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-02-25 13:25:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-02-25 13:25:03 - [TEST_STEP][PASSED] - navigateToUrl(baseUrl): Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:25:06 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:25:06 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-02-25 13:25:06 - [MESSAGE][PASSED] - Current window maximized
+
+2024-02-25 13:25:06 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:25:07 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:25:07 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842306312.png]]
+
+2024-02-25 13:25:07 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_username"), standard_user): Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:25:08 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:25:08 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_password"), password): Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:25:09 - [MESSAGE][PASSED] - Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:25:09 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:25:10 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:25:10 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842309941.png]]
+
+2024-02-25 13:25:10 - [TEST_STEP][PASSED] - click(findTestObject("Login/button_login")): Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:25:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:25:11 - [TEST_STEP][PASSED] - verifyTextPresent("Swag Labs", false): Text 'Swag Labs' is present on page 
+
+2024-02-25 13:25:11 - [MESSAGE][PASSED] - Text 'Swag Labs' is present on page 
+
+2024-02-25 13:25:11 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:25:12 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:25:13 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842311811.png]]
+
+2024-02-25 13:25:13 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:25:13 - [TEST_STEP][PASSED] - click(findTestObject("Product/addtocart")): Object: 'Object Repository/Product/addtocart' is clicked on
+
+2024-02-25 13:25:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/addtocart' is clicked on
+
+2024-02-25 13:25:13 - [TEST_STEP][PASSED] - click(findTestObject("Product/cart icon")): Object: 'Object Repository/Product/cart icon' is clicked on
+
+2024-02-25 13:25:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/cart icon' is clicked on
+
+2024-02-25 13:25:14 - [TEST_STEP][PASSED] - click(findTestObject("Product/btn-checkout")): Object: 'Object Repository/Product/btn-checkout' is clicked on
+
+2024-02-25 13:25:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/btn-checkout' is clicked on
+
+2024-02-25 13:25:14 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:25:15 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:25:15 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842314893.png]]
+
+2024-02-25 13:25:15 - [TEST_STEP][PASSED] - setText(findTestObject("Product/firstname"), firstname): Text 'Muhammad' is set on object 'Object Repository/Product/firstname'
+
+2024-02-25 13:25:16 - [MESSAGE][PASSED] - Text 'Muhammad' is set on object 'Object Repository/Product/firstname'
+
+2024-02-25 13:25:16 - [TEST_STEP][PASSED] - setText(findTestObject("Product/lastname"), ""): Text '' is set on object 'Object Repository/Product/lastname'
+
+2024-02-25 13:25:19 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Product/lastname'
+
+2024-02-25 13:25:19 - [TEST_STEP][PASSED] - setText(findTestObject("Product/postcal code"), PostcalCode): Text '12345' is set on object 'Object Repository/Product/postcal code'
+
+2024-02-25 13:25:20 - [MESSAGE][PASSED] - Text '12345' is set on object 'Object Repository/Product/postcal code'
+
+2024-02-25 13:25:20 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:25:20 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:25:20 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842320043.png]]
+
+2024-02-25 13:25:20 - [TEST_STEP][PASSED] - click(findTestObject("Product/btn-continue")): Object: 'Object Repository/Product/btn-continue' is clicked on
+
+2024-02-25 13:25:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/btn-continue' is clicked on
+
+2024-02-25 13:25:21 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:25:22 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:25:22 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842321362.png]]
+
+2024-02-25 13:25:22 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Product/assertion/h3_Error Last Name is required"), "Error: Last Name is required"): Actual text and expected text of test object 'Object Repository/Product/assertion/h3_Error Last Name is required' are matched.
+
+2024-02-25 13:25:22 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Product/assertion/h3_Error Last Name is required' are matched.
+
+2024-02-25 13:25:22 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-02-25 13:25:23 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product/User information/4.2.4 User input postal code-zip null" time="22.802" classname="Test Cases/Product/User information/4.2.4 User input postal code-zip null" status="PASSED">
+         <system-out><![CDATA[2024-02-25 13:25:23 - [TEST_CASE][PASSED] - Test Cases/Product/User information/4.2.4 User input postal code-zip null: Test Cases/Product/User information/4.2.4 User input postal code-zip null
+
+2024-02-25 13:25:24 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/1.1.1 - User login with standar_user"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:25:24 - [TEST_CASE][PASSED] - Test Cases/Login/1.1.1 - User login with standar_user: Test Cases/Login/1.1.1 - User login with standar_user
+
+2024-02-25 13:25:24 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-02-25 13:25:24 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2024-02-25 13:25:24 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-02-25 13:25:25 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-02-25 13:25:25 - [TEST_STEP][PASSED] - navigateToUrl(baseUrl): Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:25:28 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:25:28 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-02-25 13:25:28 - [MESSAGE][PASSED] - Current window maximized
+
+2024-02-25 13:25:28 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:25:29 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:25:29 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842328896.png]]
+
+2024-02-25 13:25:29 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_username"), standard_user): Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:25:31 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:25:31 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_password"), password): Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:25:32 - [MESSAGE][PASSED] - Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:25:32 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:25:33 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:25:33 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842332672.png]]
+
+2024-02-25 13:25:33 - [TEST_STEP][PASSED] - click(findTestObject("Login/button_login")): Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:25:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:25:34 - [TEST_STEP][PASSED] - verifyTextPresent("Swag Labs", false): Text 'Swag Labs' is present on page 
+
+2024-02-25 13:25:34 - [MESSAGE][PASSED] - Text 'Swag Labs' is present on page 
+
+2024-02-25 13:25:34 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:25:35 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:25:36 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842334633.png]]
+
+2024-02-25 13:25:36 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:25:36 - [TEST_STEP][PASSED] - click(findTestObject("Product/addtocart")): Object: 'Object Repository/Product/addtocart' is clicked on
+
+2024-02-25 13:25:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/addtocart' is clicked on
+
+2024-02-25 13:25:36 - [TEST_STEP][PASSED] - click(findTestObject("Product/cart icon")): Object: 'Object Repository/Product/cart icon' is clicked on
+
+2024-02-25 13:25:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/cart icon' is clicked on
+
+2024-02-25 13:25:37 - [TEST_STEP][PASSED] - click(findTestObject("Product/btn-checkout")): Object: 'Object Repository/Product/btn-checkout' is clicked on
+
+2024-02-25 13:25:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/btn-checkout' is clicked on
+
+2024-02-25 13:25:37 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:25:38 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:25:38 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842337878.png]]
+
+2024-02-25 13:25:38 - [TEST_STEP][PASSED] - setText(findTestObject("Product/firstname"), firstname): Text 'Muhammad' is set on object 'Object Repository/Product/firstname'
+
+2024-02-25 13:25:39 - [MESSAGE][PASSED] - Text 'Muhammad' is set on object 'Object Repository/Product/firstname'
+
+2024-02-25 13:25:39 - [TEST_STEP][PASSED] - setText(findTestObject("Product/lastname"), lastname): Text 'Azzam' is set on object 'Object Repository/Product/lastname'
+
+2024-02-25 13:25:40 - [MESSAGE][PASSED] - Text 'Azzam' is set on object 'Object Repository/Product/lastname'
+
+2024-02-25 13:25:40 - [TEST_STEP][PASSED] - setText(findTestObject("Product/postcal code"), ""): Text '' is set on object 'Object Repository/Product/postcal code'
+
+2024-02-25 13:25:42 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Product/postcal code'
+
+2024-02-25 13:25:42 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:25:43 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:25:43 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842342783.png]]
+
+2024-02-25 13:25:43 - [TEST_STEP][PASSED] - click(findTestObject("Product/btn-continue")): Object: 'Object Repository/Product/btn-continue' is clicked on
+
+2024-02-25 13:25:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/btn-continue' is clicked on
+
+2024-02-25 13:25:44 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:25:44 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:25:44 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842344022.png]]
+
+2024-02-25 13:25:44 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Product/assertion/h3_Error Postal Code is required"), "Error: Postal Code is required"): Actual text and expected text of test object 'Object Repository/Product/assertion/h3_Error Postal Code is required' are matched.
+
+2024-02-25 13:25:45 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Product/assertion/h3_Error Postal Code is required' are matched.
+
+2024-02-25 13:25:45 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-02-25 13:25:46 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product/User information/4.2.5 User input all data null" time="21.276" classname="Test Cases/Product/User information/4.2.5 User input all data null" status="PASSED">
+         <system-out><![CDATA[2024-02-25 13:25:46 - [TEST_CASE][PASSED] - Test Cases/Product/User information/4.2.5 User input all data null: Test Cases/Product/User information/4.2.5 User input all data null
+
+2024-02-25 13:25:47 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/1.1.1 - User login with standar_user"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:25:47 - [TEST_CASE][PASSED] - Test Cases/Login/1.1.1 - User login with standar_user: Test Cases/Login/1.1.1 - User login with standar_user
+
+2024-02-25 13:25:47 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-02-25 13:25:47 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2024-02-25 13:25:47 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-02-25 13:25:48 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-02-25 13:25:48 - [TEST_STEP][PASSED] - navigateToUrl(baseUrl): Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:25:50 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:25:50 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-02-25 13:25:51 - [MESSAGE][PASSED] - Current window maximized
+
+2024-02-25 13:25:51 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:25:51 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:25:51 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842351195.png]]
+
+2024-02-25 13:25:51 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_username"), standard_user): Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:25:53 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:25:53 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_password"), password): Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:25:54 - [MESSAGE][PASSED] - Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:25:54 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:25:55 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:25:55 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842354388.png]]
+
+2024-02-25 13:25:55 - [TEST_STEP][PASSED] - click(findTestObject("Login/button_login")): Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:25:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:25:55 - [TEST_STEP][PASSED] - verifyTextPresent("Swag Labs", false): Text 'Swag Labs' is present on page 
+
+2024-02-25 13:25:56 - [MESSAGE][PASSED] - Text 'Swag Labs' is present on page 
+
+2024-02-25 13:25:56 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:25:57 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:25:57 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842356318.png]]
+
+2024-02-25 13:25:57 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:25:57 - [TEST_STEP][PASSED] - click(findTestObject("Product/addtocart")): Object: 'Object Repository/Product/addtocart' is clicked on
+
+2024-02-25 13:25:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/addtocart' is clicked on
+
+2024-02-25 13:25:58 - [TEST_STEP][PASSED] - click(findTestObject("Product/cart icon")): Object: 'Object Repository/Product/cart icon' is clicked on
+
+2024-02-25 13:25:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/cart icon' is clicked on
+
+2024-02-25 13:25:58 - [TEST_STEP][PASSED] - click(findTestObject("Product/btn-checkout")): Object: 'Object Repository/Product/btn-checkout' is clicked on
+
+2024-02-25 13:25:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/btn-checkout' is clicked on
+
+2024-02-25 13:25:59 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:25:59 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:26:00 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842359236.png]]
+
+2024-02-25 13:26:00 - [TEST_STEP][PASSED] - setText(findTestObject("Product/firstname"), ""): Text '' is set on object 'Object Repository/Product/firstname'
+
+2024-02-25 13:26:00 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Product/firstname'
+
+2024-02-25 13:26:00 - [TEST_STEP][PASSED] - setText(findTestObject("Product/lastname"), ""): Text '' is set on object 'Object Repository/Product/lastname'
+
+2024-02-25 13:26:01 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Product/lastname'
+
+2024-02-25 13:26:01 - [TEST_STEP][PASSED] - setText(findTestObject("Product/postcal code"), ""): Text '' is set on object 'Object Repository/Product/postcal code'
+
+2024-02-25 13:26:04 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Product/postcal code'
+
+2024-02-25 13:26:04 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:26:04 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:26:04 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842364054.png]]
+
+2024-02-25 13:26:04 - [TEST_STEP][PASSED] - click(findTestObject("Product/btn-continue")): Object: 'Object Repository/Product/btn-continue' is clicked on
+
+2024-02-25 13:26:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/btn-continue' is clicked on
+
+2024-02-25 13:26:05 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:26:06 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:26:06 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842365394.png]]
+
+2024-02-25 13:26:06 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Product/assertion/h3_Error First Name is required"), "Error: First Name is required"): Actual text and expected text of test object 'Object Repository/Product/assertion/h3_Error First Name is required' are matched.
+
+2024-02-25 13:26:06 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Product/assertion/h3_Error First Name is required' are matched.
+
+2024-02-25 13:26:06 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-02-25 13:26:07 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Product/User Checkout/4.3.1 User checkout product" time="25.225" classname="Test Cases/Product/User Checkout/4.3.1 User checkout product" status="PASSED">
+         <system-out><![CDATA[2024-02-25 13:26:07 - [TEST_CASE][PASSED] - Test Cases/Product/User Checkout/4.3.1 User checkout product: Test Cases/Product/User Checkout/4.3.1 User checkout product
+
+2024-02-25 13:26:08 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/1.1.1 - User login with standar_user"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:26:08 - [TEST_CASE][PASSED] - Test Cases/Login/1.1.1 - User login with standar_user: Test Cases/Login/1.1.1 - User login with standar_user
+
+2024-02-25 13:26:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-02-25 13:26:08 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2024-02-25 13:26:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-02-25 13:26:10 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-02-25 13:26:10 - [TEST_STEP][PASSED] - navigateToUrl(baseUrl): Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:26:12 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2024-02-25 13:26:12 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-02-25 13:26:12 - [MESSAGE][PASSED] - Current window maximized
+
+2024-02-25 13:26:12 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:26:12 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:26:13 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842372394.png]]
+
+2024-02-25 13:26:13 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_username"), standard_user): Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:26:14 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Login/field_username'
+
+2024-02-25 13:26:14 - [TEST_STEP][PASSED] - setText(findTestObject("Login/field_password"), password): Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:26:15 - [MESSAGE][PASSED] - Text 'secret_sauce' is set on object 'Object Repository/Login/field_password'
+
+2024-02-25 13:26:15 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:26:16 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:26:16 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842375872.png]]
+
+2024-02-25 13:26:16 - [TEST_STEP][PASSED] - click(findTestObject("Login/button_login")): Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:26:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_login' is clicked on
+
+2024-02-25 13:26:17 - [TEST_STEP][PASSED] - verifyTextPresent("Swag Labs", false): Text 'Swag Labs' is present on page 
+
+2024-02-25 13:26:18 - [MESSAGE][PASSED] - Text 'Swag Labs' is present on page 
+
+2024-02-25 13:26:18 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:26:18 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:26:19 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842378046.png]]
+
+2024-02-25 13:26:19 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/1.1.1 - User login with standar_user' successfully
+
+2024-02-25 13:26:19 - [TEST_STEP][PASSED] - click(findTestObject("Product/addtocart")): Object: 'Object Repository/Product/addtocart' is clicked on
+
+2024-02-25 13:26:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/addtocart' is clicked on
+
+2024-02-25 13:26:20 - [TEST_STEP][PASSED] - click(findTestObject("Product/cart icon")): Object: 'Object Repository/Product/cart icon' is clicked on
+
+2024-02-25 13:26:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/cart icon' is clicked on
+
+2024-02-25 13:26:20 - [TEST_STEP][PASSED] - click(findTestObject("Product/btn-checkout")): Object: 'Object Repository/Product/btn-checkout' is clicked on
+
+2024-02-25 13:26:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/btn-checkout' is clicked on
+
+2024-02-25 13:26:21 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:26:21 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:26:21 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842381147.png]]
+
+2024-02-25 13:26:21 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Product/assertion/span_Checkout Your Information"), "Checkout: Your Information"): Actual text and expected text of test object 'Object Repository/Product/assertion/span_Checkout Your Information' are matched.
+
+2024-02-25 13:26:22 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Product/assertion/span_Checkout Your Information' are matched.
+
+2024-02-25 13:26:22 - [TEST_STEP][PASSED] - setText(findTestObject("Product/firstname"), firstname): Text 'Muhammad' is set on object 'Object Repository/Product/firstname'
+
+2024-02-25 13:26:23 - [MESSAGE][PASSED] - Text 'Muhammad' is set on object 'Object Repository/Product/firstname'
+
+2024-02-25 13:26:23 - [TEST_STEP][PASSED] - setText(findTestObject("Product/lastname"), lastname): Text 'Azzam' is set on object 'Object Repository/Product/lastname'
+
+2024-02-25 13:26:25 - [MESSAGE][PASSED] - Text 'Azzam' is set on object 'Object Repository/Product/lastname'
+
+2024-02-25 13:26:25 - [TEST_STEP][PASSED] - setText(findTestObject("Product/postcal code"), PostcalCode): Text '12345' is set on object 'Object Repository/Product/postcal code'
+
+2024-02-25 13:26:26 - [MESSAGE][PASSED] - Text '12345' is set on object 'Object Repository/Product/postcal code'
+
+2024-02-25 13:26:26 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:26:27 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:26:27 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842386928.png]]
+
+2024-02-25 13:26:27 - [TEST_STEP][PASSED] - click(findTestObject("Product/btn-continue")): Object: 'Object Repository/Product/btn-continue' is clicked on
+
+2024-02-25 13:26:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/btn-continue' is clicked on
+
+2024-02-25 13:26:28 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Product/assertion/span_Checkout Overview"), "Checkout: Overview"): Actual text and expected text of test object 'Object Repository/Product/assertion/span_Checkout Overview' are matched.
+
+2024-02-25 13:26:28 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Product/assertion/span_Checkout Overview' are matched.
+
+2024-02-25 13:26:28 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:26:29 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:26:29 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842388780.png]]
+
+2024-02-25 13:26:29 - [TEST_STEP][PASSED] - click(findTestObject("Product/assertion/button_Finish")): Object: 'Object Repository/Product/assertion/button_Finish' is clicked on
+
+2024-02-25 13:26:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Product/assertion/button_Finish' is clicked on
+
+2024-02-25 13:26:30 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:26:30 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:26:30 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842390087.png]]
+
+2024-02-25 13:26:30 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Product/assertion/h2_Thank you for your order"), "Thank you for your order!"): Actual text and expected text of test object 'Object Repository/Product/assertion/h2_Thank you for your order' are matched.
+
+2024-02-25 13:26:31 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Product/assertion/h2_Thank you for your order' are matched.
+
+2024-02-25 13:26:31 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-02-25 13:26:31 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-02-25 13:26:31 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|I:\\SABERCODE QA\\QA Sanber\\Katalon_Saucedemo\\Reports\\20240225_132123\\Suites - Product\\20240225_132123\\1708842391201.png]]
+
+2024-02-25 13:26:31 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-02-25 13:26:32 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-02-25 13:21:28 - [TEST_SUITE][PASSED] - Suites - Product: Test Cases/Product/User Checkout/4.3.1 User checkout product]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

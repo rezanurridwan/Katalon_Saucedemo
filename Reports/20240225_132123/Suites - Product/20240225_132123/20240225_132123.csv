@@ -1,0 +1,171 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Suites - Product,Edge Chromium 121,,,2024-02-25 13:21:28,2024-02-25 13:26:32,"5m - 4,112s",PASSED
+,,,,,,,
+Test Cases/Product/Filter product/3.1.1 Filter product name (A-Z),Edge Chromium 121,Filter product name (A-Z),Product,2024-02-25 13:21:29,2024-02-25 13:21:54,"24,750s",PASSED
+"callTestCase(findTestCase(""Login/1.1.1 - User login with standar_user""), [:], STOP_ON_FAILURE)",Edge Chromium 121,,,2024-02-25 13:21:30,2024-02-25 13:21:49,"19,004s",PASSED
+"click(findTestObject(""Product/filter icon""))",Edge Chromium 121,,,2024-02-25 13:21:49,2024-02-25 13:21:49,"0,553s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:21:49,2024-02-25 13:21:51,"1,489s",PASSED
+"click(findTestObject(""Product/Name (A-Z)""))",Edge Chromium 121,,,2024-02-25 13:21:51,2024-02-25 13:21:51,"0,475s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:21:51,2024-02-25 13:21:52,"1,359s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-25 13:21:52,2024-02-25 13:21:54,"1,099s",PASSED
+,,,,,,,
+Test Cases/Product/Filter product/3.1.2 Filter product name (Z-A),Edge Chromium 121,Filter product name (A-Z),Product,2024-02-25 13:21:54,2024-02-25 13:22:15,"21,095s",PASSED
+"callTestCase(findTestCase(""Login/1.1.1 - User login with standar_user""), [:], STOP_ON_FAILURE)",Edge Chromium 121,,,2024-02-25 13:21:54,2024-02-25 13:22:10,"15,863s",PASSED
+"click(findTestObject(""Product/filter icon""))",Edge Chromium 121,,,2024-02-25 13:22:10,2024-02-25 13:22:11,"0,509s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:22:11,2024-02-25 13:22:12,"1,329s",PASSED
+"click(findTestObject(""Product/Name (Z-A)""))",Edge Chromium 121,,,2024-02-25 13:22:12,2024-02-25 13:22:12,"0,480s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:22:12,2024-02-25 13:22:14,"1,231s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-25 13:22:14,2024-02-25 13:22:15,"1,106s",PASSED
+,,,,,,,
+Test Cases/Product/Filter product/3.1.3 Filter product price (low to high),Edge Chromium 121,Filter product name (A-Z),Product,2024-02-25 13:22:15,2024-02-25 13:22:39,"24,075s",PASSED
+"callTestCase(findTestCase(""Login/1.1.1 - User login with standar_user""), [:], STOP_ON_FAILURE)",Edge Chromium 121,,,2024-02-25 13:22:15,2024-02-25 13:22:34,"18,853s",PASSED
+"click(findTestObject(""Product/filter icon""))",Edge Chromium 121,,,2024-02-25 13:22:34,2024-02-25 13:22:35,"0,494s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:22:35,2024-02-25 13:22:36,"1,292s",PASSED
+"click(findTestObject(""Product/Price (low to high)""))",Edge Chromium 121,,,2024-02-25 13:22:36,2024-02-25 13:22:36,"0,527s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:22:36,2024-02-25 13:22:38,"1,311s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-25 13:22:38,2024-02-25 13:22:39,"1,078s",PASSED
+,,,,,,,
+Test Cases/Product/Filter product/3.1.4 Filter product price (high to low),Edge Chromium 121,Filter product name (A-Z),Product,2024-02-25 13:22:39,2024-02-25 13:22:56,"16,954s",PASSED
+"callTestCase(findTestCase(""Login/1.1.1 - User login with standar_user""), [:], STOP_ON_FAILURE)",Edge Chromium 121,,,2024-02-25 13:22:39,2024-02-25 13:22:51,"11,484s",PASSED
+"click(findTestObject(""Product/filter icon""))",Edge Chromium 121,,,2024-02-25 13:22:51,2024-02-25 13:22:51,"0,564s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:22:51,2024-02-25 13:22:53,"1,407s",PASSED
+"click(findTestObject(""Product/Price (high to low)""))",Edge Chromium 121,,,2024-02-25 13:22:53,2024-02-25 13:22:53,"0,506s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:22:53,2024-02-25 13:22:55,"1,302s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-25 13:22:55,2024-02-25 13:22:56,"1,108s",PASSED
+,,,,,,,
+Test Cases/Product/Description/3.2.1 View description product with clicking image,Edge Chromium 121,View description product with clicking image,Product,2024-02-25 13:22:56,2024-02-25 13:23:10,"14,562s",PASSED
+"callTestCase(findTestCase(""Login/1.1.1 - User login with standar_user""), [:], STOP_ON_FAILURE)",Edge Chromium 121,,,2024-02-25 13:22:56,2024-02-25 13:23:08,"11,177s",PASSED
+"click(findTestObject(""Product/product title""))",Edge Chromium 121,,,2024-02-25 13:23:08,2024-02-25 13:23:08,"0,580s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:23:08,2024-02-25 13:23:09,"1,146s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-25 13:23:09,2024-02-25 13:23:10,"1,052s",PASSED
+,,,,,,,
+Test Cases/Product/Description/3.2.2 View description product with clicking product name,Edge Chromium 121,View description product with clicking product name,Product,2024-02-25 13:23:10,2024-02-25 13:23:11,"0,627s",PASSED
+return null,Edge Chromium 121,,,2024-02-25 13:23:11,2024-02-25 13:23:11,"0,001s",PASSED
+,,,,,,,
+Test Cases/Product/Add to cart/3.3.1 User add product with clicking button add to cart,Edge Chromium 121,User add product with clicking button add to cart,Product,2024-02-25 13:23:11,2024-02-25 13:23:26,"15,023s",PASSED
+"callTestCase(findTestCase(""Login/1.1.1 - User login with standar_user""), [:], STOP_ON_FAILURE)",Edge Chromium 121,,,2024-02-25 13:23:12,2024-02-25 13:23:23,"11,659s",PASSED
+"click(findTestObject(""Product/addtocart""))",Edge Chromium 121,,,2024-02-25 13:23:23,2024-02-25 13:23:24,"0,502s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:23:24,2024-02-25 13:23:25,"1,289s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-25 13:23:25,2024-02-25 13:23:26,"1,058s",PASSED
+,,,,,,,
+Test Cases/Product/Add to cart/3.3.2 User remove product with clicking button remove,Edge Chromium 121,User remove product with clicking button remove,Product,2024-02-25 13:23:26,2024-02-25 13:23:42,"16,087s",PASSED
+"callTestCase(findTestCase(""Login/1.1.1 - User login with standar_user""), [:], STOP_ON_FAILURE)",Edge Chromium 121,,,2024-02-25 13:23:27,2024-02-25 13:23:37,"10,794s",PASSED
+"click(findTestObject(""Product/addtocart""))",Edge Chromium 121,,,2024-02-25 13:23:37,2024-02-25 13:23:38,"0,510s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:23:38,2024-02-25 13:23:39,"1,349s",PASSED
+"click(findTestObject(""Product/remove-cart""))",Edge Chromium 121,,,2024-02-25 13:23:39,2024-02-25 13:23:40,"0,541s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:23:40,2024-02-25 13:23:41,"1,230s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-25 13:23:41,2024-02-25 13:23:42,"1,142s",PASSED
+,,,,,,,
+Test Cases/Product/Add to cart/4.1.1 User want to back product,Edge Chromium 121,User want to back product,Product,2024-02-25 13:23:42,2024-02-25 13:24:00,"17,820s",PASSED
+"callTestCase(findTestCase(""Login/1.1.1 - User login with standar_user""), [:], STOP_ON_FAILURE)",Edge Chromium 121,,,2024-02-25 13:23:43,2024-02-25 13:23:54,"11,310s",PASSED
+"click(findTestObject(""Product/addtocart""))",Edge Chromium 121,,,2024-02-25 13:23:54,2024-02-25 13:23:54,"0,488s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:23:54,2024-02-25 13:23:56,"1,366s",PASSED
+"click(findTestObject(""Product/cart icon""))",Edge Chromium 121,,,2024-02-25 13:23:56,2024-02-25 13:23:56,"0,539s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:23:56,2024-02-25 13:23:57,"0,652s",PASSED
+"click(findTestObject(""Product/btn-continue shopping""))",Edge Chromium 121,,,2024-02-25 13:23:57,2024-02-25 13:23:58,"0,557s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:23:58,2024-02-25 13:23:59,"1,322s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-25 13:23:59,2024-02-25 13:24:00,"1,095s",PASSED
+,,,,,,,
+Test Cases/Product/Add to cart/4.1.2 User want to remove product,Edge Chromium 121,User want to remove product,Product,2024-02-25 13:24:00,2024-02-25 13:24:17,"16,789s",PASSED
+"callTestCase(findTestCase(""Login/1.1.1 - User login with standar_user""), [:], STOP_ON_FAILURE)",Edge Chromium 121,,,2024-02-25 13:24:00,2024-02-25 13:24:12,"11,149s",PASSED
+"click(findTestObject(""Product/addtocart""))",Edge Chromium 121,,,2024-02-25 13:24:12,2024-02-25 13:24:12,"0,453s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:24:12,2024-02-25 13:24:13,"1,323s",PASSED
+"click(findTestObject(""Product/cart icon""))",Edge Chromium 121,,,2024-02-25 13:24:13,2024-02-25 13:24:14,"0,487s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:24:14,2024-02-25 13:24:15,"0,685s",PASSED
+"click(findTestObject(""Product/btn-remove product""))",Edge Chromium 121,,,2024-02-25 13:24:15,2024-02-25 13:24:15,"0,461s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:24:15,2024-02-25 13:24:16,"0,594s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-25 13:24:16,2024-02-25 13:24:17,"1,110s",PASSED
+,,,,,,,
+Test Cases/Product/User information/4.2.1 User input data valid,Edge Chromium 121,User input data valid,User information,2024-02-25 13:24:17,2024-02-25 13:24:39,"22,075s",PASSED
+"callTestCase(findTestCase(""Login/1.1.1 - User login with standar_user""), [:], STOP_ON_FAILURE)",Edge Chromium 121,,,2024-02-25 13:24:17,2024-02-25 13:24:29,"11,626s",PASSED
+"click(findTestObject(""Product/addtocart""))",Edge Chromium 121,,,2024-02-25 13:24:29,2024-02-25 13:24:30,"0,456s",PASSED
+"click(findTestObject(""Product/cart icon""))",Edge Chromium 121,,,2024-02-25 13:24:30,2024-02-25 13:24:30,"0,647s",PASSED
+"click(findTestObject(""Product/btn-checkout""))",Edge Chromium 121,,,2024-02-25 13:24:30,2024-02-25 13:24:31,"0,568s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:24:31,2024-02-25 13:24:32,"0,788s",PASSED
+"setText(findTestObject(""Product/firstname""), firstname)",Edge Chromium 121,,,2024-02-25 13:24:32,2024-02-25 13:24:32,"0,856s",PASSED
+"setText(findTestObject(""Product/lastname""), lastname)",Edge Chromium 121,,,2024-02-25 13:24:32,2024-02-25 13:24:33,"0,995s",PASSED
+"setText(findTestObject(""Product/postcal code""), PostcalCode)",Edge Chromium 121,,,2024-02-25 13:24:33,2024-02-25 13:24:36,"2,168s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:24:36,2024-02-25 13:24:36,"0,732s",PASSED
+"click(findTestObject(""Product/btn-continue""))",Edge Chromium 121,,,2024-02-25 13:24:36,2024-02-25 13:24:37,"0,565s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:24:37,2024-02-25 13:24:38,"0,811s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-25 13:24:38,2024-02-25 13:24:39,"1,120s",PASSED
+,,,,,,,
+Test Cases/Product/User information/4.2.2 User input firstname null,Edge Chromium 121,User input firstname null,User information,2024-02-25 13:24:39,2024-02-25 13:25:01,"22,088s",PASSED
+"callTestCase(findTestCase(""Login/1.1.1 - User login with standar_user""), [:], STOP_ON_FAILURE)",Edge Chromium 121,,,2024-02-25 13:24:39,2024-02-25 13:24:50,"10,897s",PASSED
+"click(findTestObject(""Product/addtocart""))",Edge Chromium 121,,,2024-02-25 13:24:50,2024-02-25 13:24:51,"0,492s",PASSED
+"click(findTestObject(""Product/cart icon""))",Edge Chromium 121,,,2024-02-25 13:24:51,2024-02-25 13:24:51,"0,632s",PASSED
+"click(findTestObject(""Product/btn-checkout""))",Edge Chromium 121,,,2024-02-25 13:24:51,2024-02-25 13:24:52,"0,612s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:24:52,2024-02-25 13:24:53,"0,828s",PASSED
+"setText(findTestObject(""Product/firstname""), """")",Edge Chromium 121,,,2024-02-25 13:24:53,2024-02-25 13:24:54,"0,878s",PASSED
+"setText(findTestObject(""Product/lastname""), lastname)",Edge Chromium 121,,,2024-02-25 13:24:54,2024-02-25 13:24:56,"2,631s",PASSED
+"setText(findTestObject(""Product/postcal code""), PostcalCode)",Edge Chromium 121,,,2024-02-25 13:24:56,2024-02-25 13:24:57,"0,988s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:24:57,2024-02-25 13:24:58,"0,740s",PASSED
+"click(findTestObject(""Product/btn-continue""))",Edge Chromium 121,,,2024-02-25 13:24:58,2024-02-25 13:24:59,"0,519s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:24:59,2024-02-25 13:24:59,"0,772s",PASSED
+"verifyElementText(findTestObject(""Product/assertion/h3_Error First Name is required""), ""Error: First Name is required"")",Edge Chromium 121,,,2024-02-25 13:24:59,2024-02-25 13:25:00,"0,470s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-25 13:25:00,2024-02-25 13:25:01,"1,104s",PASSED
+,,,,,,,
+Test Cases/Product/User information/4.2.3 User input lastname null,Edge Chromium 121,User input lastname null,User information,2024-02-25 13:25:01,2024-02-25 13:25:23,"22,145s",PASSED
+"callTestCase(findTestCase(""Login/1.1.1 - User login with standar_user""), [:], STOP_ON_FAILURE)",Edge Chromium 121,,,2024-02-25 13:25:01,2024-02-25 13:25:13,"11,246s",PASSED
+"click(findTestObject(""Product/addtocart""))",Edge Chromium 121,,,2024-02-25 13:25:13,2024-02-25 13:25:13,"0,447s",PASSED
+"click(findTestObject(""Product/cart icon""))",Edge Chromium 121,,,2024-02-25 13:25:13,2024-02-25 13:25:14,"0,639s",PASSED
+"click(findTestObject(""Product/btn-checkout""))",Edge Chromium 121,,,2024-02-25 13:25:14,2024-02-25 13:25:14,"0,632s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:25:14,2024-02-25 13:25:15,"0,737s",PASSED
+"setText(findTestObject(""Product/firstname""), firstname)",Edge Chromium 121,,,2024-02-25 13:25:15,2024-02-25 13:25:16,"0,979s",PASSED
+"setText(findTestObject(""Product/lastname""), """")",Edge Chromium 121,,,2024-02-25 13:25:16,2024-02-25 13:25:19,"2,565s",PASSED
+"setText(findTestObject(""Product/postcal code""), PostcalCode)",Edge Chromium 121,,,2024-02-25 13:25:19,2024-02-25 13:25:20,"0,872s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:25:20,2024-02-25 13:25:20,"0,784s",PASSED
+"click(findTestObject(""Product/btn-continue""))",Edge Chromium 121,,,2024-02-25 13:25:20,2024-02-25 13:25:21,"0,533s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:25:21,2024-02-25 13:25:22,"0,786s",PASSED
+"verifyElementText(findTestObject(""Product/assertion/h3_Error Last Name is required""), ""Error: Last Name is required"")",Edge Chromium 121,,,2024-02-25 13:25:22,2024-02-25 13:25:22,"0,428s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-25 13:25:22,2024-02-25 13:25:23,"1,007s",PASSED
+,,,,,,,
+Test Cases/Product/User information/4.2.4 User input postal code-zip null,Edge Chromium 121,User input postal code-zip null,User information,2024-02-25 13:25:23,2024-02-25 13:25:46,"22,802s",PASSED
+"callTestCase(findTestCase(""Login/1.1.1 - User login with standar_user""), [:], STOP_ON_FAILURE)",Edge Chromium 121,,,2024-02-25 13:25:24,2024-02-25 13:25:36,"11,945s",PASSED
+"click(findTestObject(""Product/addtocart""))",Edge Chromium 121,,,2024-02-25 13:25:36,2024-02-25 13:25:36,"0,570s",PASSED
+"click(findTestObject(""Product/cart icon""))",Edge Chromium 121,,,2024-02-25 13:25:36,2024-02-25 13:25:37,"0,657s",PASSED
+"click(findTestObject(""Product/btn-checkout""))",Edge Chromium 121,,,2024-02-25 13:25:37,2024-02-25 13:25:37,"0,626s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:25:37,2024-02-25 13:25:38,"0,777s",PASSED
+"setText(findTestObject(""Product/firstname""), firstname)",Edge Chromium 121,,,2024-02-25 13:25:38,2024-02-25 13:25:39,"0,828s",PASSED
+"setText(findTestObject(""Product/lastname""), lastname)",Edge Chromium 121,,,2024-02-25 13:25:39,2024-02-25 13:25:40,"0,942s",PASSED
+"setText(findTestObject(""Product/postcal code""), """")",Edge Chromium 121,,,2024-02-25 13:25:40,2024-02-25 13:25:42,"2,358s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:25:42,2024-02-25 13:25:43,"0,730s",PASSED
+"click(findTestObject(""Product/btn-continue""))",Edge Chromium 121,,,2024-02-25 13:25:43,2024-02-25 13:25:44,"0,506s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:25:44,2024-02-25 13:25:44,"0,865s",PASSED
+"verifyElementText(findTestObject(""Product/assertion/h3_Error Postal Code is required""), ""Error: Postal Code is required"")",Edge Chromium 121,,,2024-02-25 13:25:44,2024-02-25 13:25:45,"0,452s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-25 13:25:45,2024-02-25 13:25:46,"1,056s",PASSED
+,,,,,,,
+Test Cases/Product/User information/4.2.5 User input all data null,Edge Chromium 121,User input all data null,User information,2024-02-25 13:25:46,2024-02-25 13:26:07,"21,276s",PASSED
+"callTestCase(findTestCase(""Login/1.1.1 - User login with standar_user""), [:], STOP_ON_FAILURE)",Edge Chromium 121,,,2024-02-25 13:25:47,2024-02-25 13:25:57,"10,458s",PASSED
+"click(findTestObject(""Product/addtocart""))",Edge Chromium 121,,,2024-02-25 13:25:57,2024-02-25 13:25:58,"0,476s",PASSED
+"click(findTestObject(""Product/cart icon""))",Edge Chromium 121,,,2024-02-25 13:25:58,2024-02-25 13:25:58,"0,591s",PASSED
+"click(findTestObject(""Product/btn-checkout""))",Edge Chromium 121,,,2024-02-25 13:25:58,2024-02-25 13:25:59,"0,579s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:25:59,2024-02-25 13:26:00,"0,811s",PASSED
+"setText(findTestObject(""Product/firstname""), """")",Edge Chromium 121,,,2024-02-25 13:26:00,2024-02-25 13:26:00,"0,822s",PASSED
+"setText(findTestObject(""Product/lastname""), """")",Edge Chromium 121,,,2024-02-25 13:26:00,2024-02-25 13:26:01,"0,813s",PASSED
+"setText(findTestObject(""Product/postcal code""), """")",Edge Chromium 121,,,2024-02-25 13:26:01,2024-02-25 13:26:04,"2,371s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:26:04,2024-02-25 13:26:04,"0,796s",PASSED
+"click(findTestObject(""Product/btn-continue""))",Edge Chromium 121,,,2024-02-25 13:26:04,2024-02-25 13:26:05,"0,541s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:26:05,2024-02-25 13:26:06,"0,840s",PASSED
+"verifyElementText(findTestObject(""Product/assertion/h3_Error First Name is required""), ""Error: First Name is required"")",Edge Chromium 121,,,2024-02-25 13:26:06,2024-02-25 13:26:06,"0,462s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-25 13:26:06,2024-02-25 13:26:07,"0,982s",PASSED
+,,,,,,,
+Test Cases/Product/User Checkout/4.3.1 User checkout product,Edge Chromium 121,User checkout product,Checkout,2024-02-25 13:26:07,2024-02-25 13:26:32,"25,225s",PASSED
+"callTestCase(findTestCase(""Login/1.1.1 - User login with standar_user""), [:], STOP_ON_FAILURE)",Edge Chromium 121,,,2024-02-25 13:26:08,2024-02-25 13:26:19,"11,277s",PASSED
+"click(findTestObject(""Product/addtocart""))",Edge Chromium 121,,,2024-02-25 13:26:19,2024-02-25 13:26:20,"0,516s",PASSED
+"click(findTestObject(""Product/cart icon""))",Edge Chromium 121,,,2024-02-25 13:26:20,2024-02-25 13:26:20,"0,608s",PASSED
+"click(findTestObject(""Product/btn-checkout""))",Edge Chromium 121,,,2024-02-25 13:26:20,2024-02-25 13:26:21,"0,521s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:26:21,2024-02-25 13:26:21,"0,830s",PASSED
+"verifyElementText(findTestObject(""Product/assertion/span_Checkout Your Information""), ""Checkout: Your Information"")",Edge Chromium 121,,,2024-02-25 13:26:21,2024-02-25 13:26:22,"0,422s",PASSED
+"setText(findTestObject(""Product/firstname""), firstname)",Edge Chromium 121,,,2024-02-25 13:26:22,2024-02-25 13:26:23,"0,915s",PASSED
+"setText(findTestObject(""Product/lastname""), lastname)",Edge Chromium 121,,,2024-02-25 13:26:23,2024-02-25 13:26:25,"2,578s",PASSED
+"setText(findTestObject(""Product/postcal code""), PostcalCode)",Edge Chromium 121,,,2024-02-25 13:26:25,2024-02-25 13:26:26,"1,035s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:26:26,2024-02-25 13:26:27,"0,793s",PASSED
+"click(findTestObject(""Product/btn-continue""))",Edge Chromium 121,,,2024-02-25 13:26:27,2024-02-25 13:26:28,"0,534s",PASSED
+"verifyElementText(findTestObject(""Product/assertion/span_Checkout Overview""), ""Checkout: Overview"")",Edge Chromium 121,,,2024-02-25 13:26:28,2024-02-25 13:26:28,"0,528s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:26:28,2024-02-25 13:26:29,"0,798s",PASSED
+"click(findTestObject(""Product/assertion/button_Finish""))",Edge Chromium 121,,,2024-02-25 13:26:29,2024-02-25 13:26:30,"0,503s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:26:30,2024-02-25 13:26:30,"0,673s",PASSED
+"verifyElementText(findTestObject(""Product/assertion/h2_Thank you for your order""), ""Thank you for your order!"")",Edge Chromium 121,,,2024-02-25 13:26:30,2024-02-25 13:26:31,"0,441s",PASSED
+takeFullPageScreenshot(),Edge Chromium 121,,,2024-02-25 13:26:31,2024-02-25 13:26:31,"0,642s",PASSED
+closeBrowser(),Edge Chromium 121,,,2024-02-25 13:26:31,2024-02-25 13:26:32,"1,068s",PASSED
