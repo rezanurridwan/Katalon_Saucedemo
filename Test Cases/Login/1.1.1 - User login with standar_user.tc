@@ -4,5 +4,6 @@
    <name>1.1.1 - User login with standar_user</name>
    <tag>Login</tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>8f4d6664-c7ac-4d87-9504-69f69764f15e</testCaseGuid>
 </TestCaseEntity>

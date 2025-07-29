@@ -4,8 +4,12 @@
    <name>Katalon_Saucedemo</name>
    <tag></tag>
    <UUID>5e607009-9331-4aef-9ee8-46d4485a9603</UUID>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedVersion>10.2.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\User\Desktop\Katalon_Saucedemo\Katalon_Saucedemo.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "FC352AF2703E67CD0674F38B01195E9B",
+  "keywordClasses": [
+    {
+      "name": "general.checkout",
+      "keywordMethods": [
+        {
+          "name": "valid_checkout",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

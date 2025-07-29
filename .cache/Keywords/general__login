@@ -1,0 +1,19 @@
+{
+  "keywordFileContentHash": "5C08BD473D8FAA9A3D9F413066D6CD98",
+  "keywordClasses": [
+    {
+      "name": "general.login",
+      "keywordMethods": [
+        {
+          "name": "valid_login",
+          "parameters": []
+        },
+        {
+          "name": "username_not_regist",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

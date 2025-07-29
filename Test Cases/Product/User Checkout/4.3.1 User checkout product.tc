@@ -4,5 +4,6 @@
    <name>4.3.1 User checkout product</name>
    <tag>Checkout</tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>41ddfb85-015d-4da0-9cc6-0c3bade690e3</testCaseGuid>
 </TestCaseEntity>

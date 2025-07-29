@@ -17,39 +17,4 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Login/1.1.1 - User login with standar_user'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Product/addtocart'))
-
-WebUI.click(findTestObject('Product/cart icon'))
-
-WebUI.click(findTestObject('Product/btn-checkout'))
-
-WebUI.takeFullPageScreenshot()
-
-WebUI.verifyElementText(findTestObject('Product/assertion/span_Checkout Your Information'), 'Checkout: Your Information')
-
-WebUI.setText(findTestObject('Product/firstname'), GlobalVariable.firstname)
-
-WebUI.setText(findTestObject('Product/lastname'), GlobalVariable.lastname)
-
-WebUI.setText(findTestObject('Product/postcal code'), GlobalVariable.PostcalCode)
-
-WebUI.takeFullPageScreenshot()
-
-WebUI.click(findTestObject('Product/btn-continue'))
-
-WebUI.verifyElementText(findTestObject('Product/assertion/span_Checkout Overview'), 'Checkout: Overview')
-
-WebUI.takeFullPageScreenshot()
-
-WebUI.click(findTestObject('Product/assertion/button_Finish'))
-
-WebUI.takeFullPageScreenshot()
-
-WebUI.verifyElementText(findTestObject('Product/assertion/h2_Thank you for your order'), 'Thank you for your order!')
-
-WebUI.takeFullPageScreenshot()
-
-WebUI.closeBrowser()
-
+CustomKeywords.'general.checkout.valid_checkout'()
